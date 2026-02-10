@@ -47,5 +47,9 @@ Diese Daten werden durch GitHub Inc. als Hoster vorübergehend in Server-Logfile
 
 #### Cookies
 
-Diese Webseite setzt **keine eigenen Cookies** und verwendet **keine Tracking- oder Analysetools**. Es werden **keine externen Schriftarten** (z.B. Google Fonts) oder sonstige Drittanbieter-Ressourcen eingebunden.
+Diese Webseite setzt **keine eigenen Cookies** und verwendet **keine Tracking- oder Analysetools**.
+
+#### Externe Schriftarten (Google Fonts)
+
+Diese Webseite verwendet das Jekyll-Theme „Cayman", das über GitHub Pages bereitgestellt wird. Dieses Theme bindet Schriftarten von Google Fonts (Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland) ein. Beim Aufruf dieser Seite wird eine Verbindung zu Servern von Google hergestellt, wobei Ihre IP-Adresse an Google übermittelt wird. Rechtsgrundlage ist Art. 6 Abs. 1 lit. f) DSGVO. Weitere Informationen finden Sie in der Datenschutzerklärung von Google: [https://policies.google.com/privacy](https://policies.google.com/privacy)
 
