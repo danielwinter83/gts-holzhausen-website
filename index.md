@@ -1,5 +1,3 @@
-# Ganztagsgrundschule Holzhausen - Zusammenfassung
-
 > **Hinweis:** Diese Zusammenfassung wurde vom Elternbeiratsvorsitzenden der Grundschule Holzhausen aus öffentlich zugänglichen Informationen zusammengestellt, um Eltern vor Ort einen Überblick über die geplante Ganztagsschule zu geben. Es handelt sich weder um ein offizielles Dokument der Gemeinde March noch der Grundschule Holzhausen. Alle Angaben wurden nach bestem Wissen und Gewissen zusammengetragen; Fehler oder Unvollständigkeiten können jedoch nicht ausgeschlossen werden.
 
 > Zusammengetragen aus: Antrag GTS SJ 2026/2027, Infoschreiben KiKom (Okt. 2025), Sachstandsinformation Gemeinde (Dez. 2025)
@@ -126,25 +124,25 @@
 
 > Quellen: Antrag GTS SJ 2026/2027 (S. 7-8), Sachstandsinformation 10.12.2025
 
-- [ ] **Wer übernimmt das Catering?** - Warmanlieferung ist beschlossen, aber der konkrete Caterer/Lieferant ist nicht genannt
-- [ ] **Kosten pro Mahlzeit?** - Essen ist kostenpflichtig für Familien, aber die Höhe der Kosten ist nicht festgelegt
-- [ ] **Bestellsystem** - Welches System wird verwendet? Noch nicht spezifiziert
+- **Wer übernimmt das Catering?** - Warmanlieferung ist beschlossen, aber der konkrete Caterer/Lieferant ist nicht genannt
+- **Kosten pro Mahlzeit?** - Essen ist kostenpflichtig für Familien, aber die Höhe der Kosten ist nicht festgelegt
+- **Bestellsystem** - Welches System wird verwendet? Noch nicht spezifiziert
 
 ## Budget / Finanzen
 
 > Quellen: Sachstandsinformation 10.12.2025, Antrag GTS SJ 2026/2027 (S. 4-5)
 
-- [ ] **Budget für Ausstattung der Schule** - Nicht beziffert
-- [ ] **Kosten für bauliche Maßnahmen** - Große finanzielle Herausforderung, aber keine Zahlen
-- [ ] **Monetarisierte LWS** - 5 LWS beantragt, finanzieller Gegenwert nicht beziffert
+- **Budget für Ausstattung der Schule** - Nicht beziffert
+- **Kosten für bauliche Maßnahmen** - Große finanzielle Herausforderung, aber keine Zahlen
+- **Monetarisierte LWS** - 5 LWS beantragt, finanzieller Gegenwert nicht beziffert
 
 ## Betreuung
 
 > Quellen: Sachstandsinformation 10.12.2025, Infoschreiben KiKom Okt. 2025
 
-- [ ] **Koordinationsstelle** - Geplant, aber noch nicht geschaffen/besetzt
-- [ ] **Gebühren für ergänzende Betreuung** - Gemeinderat entscheidet im Laufe von 2026
-- [ ] **Gebühren für Ferienbetreuung** - Gemeinderat entscheidet im Laufe von 2026
+- **Koordinationsstelle** - Geplant, aber noch nicht geschaffen/besetzt
+- **Gebühren für ergänzende Betreuung** - Gemeinderat entscheidet im Laufe von 2026
+- **Gebühren für Ferienbetreuung** - Gemeinderat entscheidet im Laufe von 2026
 
 ## Kooperationen
 
@@ -152,7 +150,7 @@ Kooperationen sind aktuell noch in Abstimmung. Bisher noch keine konkreten Vertr
 
 ## Räumlichkeiten / Bau
 
-- [ ] **Entscheidung über Raumerweiterung steht aus** - Laut Sachstandsinformation (10.12.2025) hat der Gemeinderat in einer Klausursitzung verschiedene Optionen (Erweiterung Bestandsstandorte, Zusammenlegung, Neubau) geprüft, konnte aber noch keine Entscheidung treffen. Baumaßnahmen werden als "große finanzielle Herausforderung" bezeichnet. Erst nach Ermittlung der notwendigen Grundlagen sollen die Überlegungen öffentlich vorgestellt werden.
+- **Entscheidung über Raumerweiterung steht aus** - Laut Sachstandsinformation (10.12.2025) hat der Gemeinderat in einer Klausursitzung verschiedene Optionen (Erweiterung Bestandsstandorte, Zusammenlegung, Neubau) geprüft, konnte aber noch keine Entscheidung treffen. Baumaßnahmen werden als "große finanzielle Herausforderung" bezeichnet. Erst nach Ermittlung der notwendigen Grundlagen sollen die Überlegungen öffentlich vorgestellt werden.
 
 **Nach aktuellen Aussagen sind keine Erweiterungen oder Modernisierungen geplant. Es werden ausschließlich Bestandsräume genutzt.**
 
@@ -160,7 +158,7 @@ Kooperationen sind aktuell noch in Abstimmung. Bisher noch keine konkreten Vertr
 
 > Quellen: Antrag GTS SJ 2026/2027 (S. 9, 11), Sachstandsinformation 10.12.2025
 
-- [ ] **Schulleitung** - Vakant, nur kommissarische Leitung
+- **Schulleitung** - Vakant, nur kommissarische Leitung
 
 
 ---
