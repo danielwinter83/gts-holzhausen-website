@@ -12,7 +12,8 @@
 4. [Ergänzendes kommunales Betreuungsangebot](#4-ergänzendes-kommunales-betreuungsangebot-beschlossen-im-grundsatz)
 5. [Mittagessen / Mensa](#5-mittagessen--mensa)
 6. [Offene Punkte](#offene-punkte)
-7. [Abkürzungsverzeichnis](#abkürzungsverzeichnis)
+7. [Weiterführende Links](#weiterführende-links)
+8. [Abkürzungsverzeichnis](#abkürzungsverzeichnis)
 
 ---
 
@@ -161,6 +162,13 @@ Kooperationen sind aktuell noch in Abstimmung. Bisher noch keine konkreten Vertr
 
 - **Schulleitung** - Vakant, nur kommissarische Leitung
 
+
+---
+
+## Weiterführende Links
+
+- [Ganztagsschule Baden-Württemberg](https://ganztagsschule.kultus-bw.de/,Lde/Startseite/Ganztagsschule+Baden-Wuerttemberg) - Informationsportal des Kultusministeriums
+- [Häufige Fragen und Antworten zur GTS](https://ganztagsschule.kultus-bw.de/,Lde/Startseite/Ganztagsschule+Baden-Wuerttemberg/Haeufige+Fragen+und+Antworten) - FAQ des Kultusministeriums
 
 ---
 
