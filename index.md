@@ -60,6 +60,7 @@
    - IL-Stunden können flexibel auch früher am Vormittag genutzt werden (Stundentausch)
 
 ### Mittagsband
+- **Teilnahme:** Freiwillig - Kinder können, müssen aber nicht teilnehmen
 - **Dauer:** 1 Zeitstunde
 - **Organisation:** 2 Tranchen a ca. 50 Kinder im Wechsel
 - **Essen:** Warmanlieferung, Bestellung über Bestellsystem durch Familien
@@ -99,7 +100,7 @@
 
 > Quelle: Sachstandsinformation Gemeinde March, 10.12.2025 (Bürgermeister Helmut Mursa)
 
-- Kostenpflichtiges Ferienbetreuungsangebot **für alle Grundschulkinder**
+- **Kostenpflichtiges** Ferienbetreuungsangebot für alle Grundschulkinder
 - Buchung von einer oder mehreren Betreuungswochen je nach Bedarf möglich
 - Gilt ab kommendem Schuljahr 2026/2027
 
