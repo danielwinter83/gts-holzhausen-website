@@ -1,13 +1,16 @@
 # Impressum
 
-## Angaben gemäß § 5 TMG
+## Angaben gemäß § 5 DigiG
 
 **Verantwortlich für den Inhalt:**
 
 Daniel Winter
 Elternbeiratsvorsitzender der Grundschule Holzhausen
+Bottinger Str. 9
+79232 March
 
 **Kontakt:**
+Telefon: +49 174 4114219
 E-Mail: da.winter@icloud.com
 
 ---

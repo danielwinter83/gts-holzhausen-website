@@ -14,6 +14,9 @@ Gemäß Art. 4 Nr. 1 DSGVO umfasst „Verarbeitung" jeden Vorgang mit automatisi
 
 **Daniel Winter**
 Elternbeiratsvorsitzender der Grundschule Holzhausen
+Bottinger Str. 9
+79232 March
+Telefon: +49 174 4114219
 E-Mail: da.winter@icloud.com
 
 ### II. Rechte der Nutzer und Betroffenen
