@@ -22,6 +22,3 @@ Die Inhalte dieser Seite wurden mit größter Sorgfalt erstellt. Für die Richti
 
 Diese Seite enthält ggf. Links zu externen Websites Dritter, auf deren Inhalte kein Einfluss besteht. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter verantwortlich.
 
----
-
-[Zurück zur Übersicht](/) · [Datenschutzerklärung](/datenschutz)

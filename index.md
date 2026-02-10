@@ -178,7 +178,3 @@ Kooperationen sind aktuell noch in Abstimmung. Bisher noch keine konkreten Vertr
 ---
 
 Stand: 10.02.2026
-
----
-
-[Impressum](/impressum) · [Datenschutzerklärung](/datenschutz)

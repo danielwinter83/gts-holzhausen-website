@@ -46,6 +46,3 @@ Diese Daten werden durch GitHub Inc. als Hoster vorübergehend in Server-Logfile
 
 Diese Webseite setzt **keine eigenen Cookies** und verwendet **keine Tracking- oder Analysetools**. Es werden **keine externen Schriftarten** (z.B. Google Fonts) oder sonstige Drittanbieter-Ressourcen eingebunden.
 
----
-
-[Zurück zur Übersicht](/) · [Impressum](/impressum)
