@@ -1,34 +1,50 @@
 # Datenschutzerklärung
 
-## 1. Verantwortlicher
+## Datenschutzerklärung für GitHub Pages
 
-Daniel Winter
+Diese Webseite wird über **GitHub Pages** (GitHub Inc., 88 Colin P. Kelly Jr. Street, San Francisco, CA 94107, USA) gehostet. Wir haben keinen Einfluss auf die Datenerhebung durch GitHub Inc. Es gilt deren Datenschutzerklärung: [https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement)
+
+## Datenschutzerklärung für diese Webseite
+
+Personenbezogene Daten werden nur im Rahmen der Erforderlichkeit zur Bereitstellung eines funktionsfähigen Internetauftritts verarbeitet.
+
+Gemäß Art. 4 Nr. 1 DSGVO umfasst „Verarbeitung" jeden Vorgang mit automatisierten Verfahren im Zusammenhang mit personenbezogenen Daten, wie Erheben, Erfassen, Organisation, Speicherung, Anpassung, Auslesen, Abfragen, Verwendung, Offenlegung, Verbreitung, Abgleich, Verknüpfung, Einschränkung, Löschen oder Vernichtung.
+
+### I. Informationen über uns als Verantwortliche
+
+**Daniel Winter**
 Elternbeiratsvorsitzender der Grundschule Holzhausen
 E-Mail: da.winter@icloud.com
 
-## 2. Hosting
+### II. Rechte der Nutzer und Betroffenen
 
-Diese Website wird über **GitHub Pages** (GitHub Inc., 88 Colin P. Kelly Jr. Street, San Francisco, CA 94107, USA) gehostet. Beim Aufruf dieser Seite werden durch GitHub automatisch technische Daten in Server-Logfiles erfasst, darunter:
+Nutzer und Betroffene haben das Recht auf:
 
-- IP-Adresse
-- Datum und Uhrzeit des Zugriffs
-- Aufgerufene Seite
+- **Bestätigung und Auskunft** über ihre verarbeiteten Daten (Art. 15 DSGVO)
+- **Berichtigung** oder Vervollständigung unrichtiger Daten (Art. 16 DSGVO)
+- **Unverzügliche Löschung** oder Einschränkung der Verarbeitung (Art. 17, 18 DSGVO)
+- **Erhalt und Übermittlung** ihrer Daten an andere Anbieter (Art. 20 DSGVO)
+- **Beschwerde** bei der zuständigen Aufsichtsbehörde (Art. 77 DSGVO)
+- **Widerspruch** gegen künftige Verarbeitung nach Art. 21 DSGVO
+
+### III. Informationen zur Datenverarbeitung
+
+#### Serverdaten
+
+Aus technischen Gründen werden beim Aufruf dieser Webseite durch Ihren Browser automatisch Daten übermittelt, darunter:
+
 - Browsertyp und -version
+- Verwendetes Betriebssystem
+- Referrer URL (zuvor besuchte Seite)
+- Aufgerufene Seiten auf dieser Webseite
+- Datum und Uhrzeit des Zugriffs
+- IP-Adresse
 
-Weitere Informationen zum Umgang mit Nutzerdaten finden Sie in der [Datenschutzerklärung von GitHub](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement).
+Diese Daten werden durch GitHub Inc. als Hoster vorübergehend in Server-Logfiles gespeichert. Rechtsgrundlage ist Art. 6 Abs. 1 lit. f) DSGVO. Das berechtigte Interesse liegt in der Bereitstellung, Stabilität und Sicherheit des Internetauftritts.
 
-## 3. Cookies
+#### Cookies
 
-Diese Website setzt **keine eigenen Cookies** und verwendet **keine Tracking- oder Analysetools**.
-
-## 4. Ihre Rechte
-
-Sie haben das Recht auf Auskunft, Berichtigung, Löschung und Einschränkung der Verarbeitung Ihrer personenbezogenen Daten. Bei Fragen wenden Sie sich bitte per E-Mail an da.winter@icloud.com.
-
-## 5. Kontakt
-
-Bei Fragen zum Datenschutz erreichen Sie den Verantwortlichen unter:
-E-Mail: da.winter@icloud.com
+Diese Webseite setzt **keine eigenen Cookies** und verwendet **keine Tracking- oder Analysetools**. Es werden **keine externen Schriftarten** (z.B. Google Fonts) oder sonstige Drittanbieter-Ressourcen eingebunden.
 
 ---
 
