@@ -1,7 +1,5 @@
 # Impressum
 
-## Angaben gemäß § 5 DigiG
-
 **Verantwortlich für den Inhalt:**
 
 Daniel Winter
