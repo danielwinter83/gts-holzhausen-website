@@ -52,7 +52,7 @@
 > Quelle: Antrag GTS SJ 2026/2027 (S. 7-9)
 > **Hinweis:** Dies ist bisher ein Vorschlag der Schule im Rahmen des Antrags. Die endgültige Ausgestaltung der Stundenpläne steht noch aus.
 
-### Vormittag
+### Vormittag (ca. 08:00 bis 12:20 Uhr)
 1. **Unterrichtsblock 1:** 90 Min. Pflichtunterricht (max. 4 Stunden/Tag aus Kontingentstundentafel)
 2. **Bewegungspause 1:** 30 Min. (inkl. Pausenfrühstück)
 3. **Unterrichtsblock 2:** 90 Min. Pflichtunterricht
@@ -63,7 +63,7 @@
    - Differenzierte Aufgaben: Pflicht-, Wahl- und Sternchenaufgaben
    - IL-Stunden können flexibel auch früher am Vormittag genutzt werden (Stundentausch)
 
-### Mittagsband
+### Mittagsband (ca. 12:20 bis 13:30 Uhr)
 - **Teilnahme:** Freiwillig, keine Schulpflicht im Mittagsband
 - **Optionen für die Kinder:** nach Hause gehen (ohne Aufsicht), eigenes Vesper in der Mensa, oder warmes Mittagessen (kostenpflichtig)
 - **Dauer:** 1:10 Std.
@@ -73,8 +73,8 @@
 - **Mittagspause:** Selbstbestimmung der Kinder (Ruhebereich, Bewegung, Spiel-/Kreativbereiche)
 - **Weiche Übergänge** zwischen Essen und Freizeit
 
-### Nachmittag
-- **Weiteres Zeitfenster:** 90 Min. (13:30-15:00 Uhr)
+### Nachmittag (ca. 13:30 bis 15:00 Uhr)
+- **Weiteres Zeitfenster:** 90 Min.
   - Pflichtunterricht (je nach Klasse/Kontingentstundentafel)
   - AG-Angebote (Lehrkräfte, monetarisierte LWS)
   - Demokratieerziehung mit Schulsozialarbeit
