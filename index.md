@@ -30,7 +30,7 @@
 | **Unterrichtsbeginn** | 08:00 Uhr |
 | **Unterrichtsende (GTS-Tage)** | 15:00 Uhr |
 | **Klassenstufen** | 1-4 (alle gleichzeitig, kein sukzessiver Aufbau) |
-| **Halbtagesgruppen** | Keine - verbindlich für alle |
+| **Halbtagesgruppen** | Keine (verbindlich für alle) |
 | **Hausaufgaben an GTS-Tagen** | Keine (ersetzt durch IL-Stunden) |
 | **Antragsteller** | Gemeinde March |
 | **Schulträger** | Gemeinde March, Am Felsenkeller 2, 79232 March-Hugstetten |
@@ -42,7 +42,7 @@
 | Punkt | Details |
 |-------|---------|
 | **Aktuelle Schulleitung** | Ramona Münchbach (kommissarisch seit 01.08.2025) |
-| **Status** | Schulleitung ist vakant - kommissarische Leitung im SJ 25/26 |
+| **Status** | Schulleitung ist vakant (kommissarische Leitung im SJ 25/26) |
 
 ---
 
@@ -52,23 +52,23 @@
 > **Hinweis:** Dies ist bisher ein Vorschlag der Schule im Rahmen des Antrags. Die endgültige Ausgestaltung der Stundenpläne steht noch aus.
 
 ### Vormittag
-1. **Unterrichtsblock 1** - 90 Min. Pflichtunterricht (max. 4 Stunden/Tag aus Kontingentstundentafel)
-2. **Bewegungspause 1** - 30 Min. (inkl. Pausenfrühstück)
-3. **Unterrichtsblock 2** - 90 Min. Pflichtunterricht
-4. **Pause 2** - 15 Min.
-5. **Individuelles Lernen (IL-Stunden)** - 35 Min.
+1. **Unterrichtsblock 1:** 90 Min. Pflichtunterricht (max. 4 Stunden/Tag aus Kontingentstundentafel)
+2. **Bewegungspause 1:** 30 Min. (inkl. Pausenfrühstück)
+3. **Unterrichtsblock 2:** 90 Min. Pflichtunterricht
+4. **Pause 2:** 15 Min.
+5. **Individuelles Lernen (IL-Stunden):** 35 Min.
    - Ersetzt Hausaufgaben
    - Betreut durch Lehrkraft  (+ zusätzliches Personal, falls vorhanden)
    - Differenzierte Aufgaben: Pflicht-, Wahl- und Sternchenaufgaben
    - IL-Stunden können flexibel auch früher am Vormittag genutzt werden (Stundentausch)
 
 ### Mittagsband
-- **Teilnahme:** Freiwillig - Kinder können, müssen aber nicht teilnehmen
+- **Teilnahme:** Freiwillig (Kinder können, müssen aber nicht teilnehmen)
 - **Dauer:** 1:10 Std.
 - **Organisation:** 2 Tranchen a ca. 50 Kinder im Wechsel
 - **Essen:** Warmanlieferung, Bestellung über Bestellsystem durch Familien
 - **Personal:** Ganztagsteam + eigenes Küchenpersonal
-- **Mittagspause:** Selbstbestimmung der Kinder - Ruhebereich, Bewegung, Spiel-/Kreativbereiche
+- **Mittagspause:** Selbstbestimmung der Kinder (Ruhebereich, Bewegung, Spiel-/Kreativbereiche)
 - **Weiche Übergänge** zwischen Essen und Freizeit
 
 ### Nachmittag
@@ -133,12 +133,12 @@ Für den Ganztagsbetrieb stellt das Land Baden-Württemberg jeder Schule zusätz
 
 ### Monetarisierung
 
-Die Schule kann entscheiden, ob sie die LWS durch eigene Lehrkräfte abdeckt oder ganz bzw. teilweise **monetarisiert** - das heißt, den finanziellen Gegenwert nutzt, um externe Partner (z.B. Vereine, Musikschule, Künstler) für AG-Angebote zu bezahlen. Pro monetarisierter LWS stehen der Schule ca. 2.142 €/Jahr zur Verfügung.
+Die Schule kann entscheiden, ob sie die LWS durch eigene Lehrkräfte abdeckt oder ganz bzw. teilweise **monetarisiert**, also den finanziellen Gegenwert nutzt, um externe Partner (z.B. Vereine, Musikschule, Künstler) für AG-Angebote zu bezahlen. Pro monetarisierter LWS stehen der Schule ca. 2.142 €/Jahr zur Verfügung.
 
 ### Aktuelle Situation in Holzhausen
 
 - Im Antrag sind **5 LWS** zur Monetarisierung vorgesehen
-- Es wird derzeit geprüft, ob die Gemeinde das monetarisierte Budget für die Finanzierung der pädagogischen Ganztagskräfte einsetzt - oder ob es, wie eigentlich vorgesehen, für externe Angebote verwendet werden kann
+- Es wird derzeit geprüft, ob die Gemeinde das monetarisierte Budget für die Finanzierung der pädagogischen Ganztagskräfte einsetzt, oder ob es, wie eigentlich vorgesehen, für externe Angebote verwendet werden kann
 - Unabhängig davon gibt es bereits **mehrere potenzielle externe Partner**, die Interesse an einer Kooperation mit der GTS Holzhausen haben
 - Die zentrale Herausforderung bleibt: Lehrkräfte für die GTS-Stunden zu gewinnen bzw. bei Monetarisierung geeignete externe Partner zu finden und zu finanzieren
 
@@ -150,25 +150,25 @@ Die Schule kann entscheiden, ob sie die LWS durch eigene Lehrkräfte abdeckt ode
 
 > Quellen: Antrag GTS SJ 2026/2027 (S. 7-8), Sachstandsinformation 10.12.2025
 
-- **Wer übernimmt das Catering?** - Warmanlieferung ist beschlossen, aber der konkrete Caterer/Lieferant ist nicht genannt
-- **Kosten pro Mahlzeit?** - Essen ist kostenpflichtig für Familien, aber die Höhe der Kosten ist nicht festgelegt
-- **Bestellsystem** - Welches System wird verwendet? Noch nicht spezifiziert
+- **Wer übernimmt das Catering?** Warmanlieferung ist beschlossen, aber der konkrete Caterer/Lieferant ist nicht genannt
+- **Kosten pro Mahlzeit?** Essen ist kostenpflichtig für Familien, aber die Höhe der Kosten ist nicht festgelegt
+- **Bestellsystem:** Welches System wird verwendet? Noch nicht spezifiziert
 
 ## Budget / Finanzen
 
 > Quellen: Sachstandsinformation 10.12.2025, Antrag GTS SJ 2026/2027 (S. 4-5)
 
-- **Budget für Ausstattung der Schule** - Nicht beziffert
-- **Kosten für bauliche Maßnahmen** - Große finanzielle Herausforderung, aber keine Zahlen
-- **Monetarisierte LWS** - 5 LWS beantragt (wird noch mit Gemeinde geprüft ob LWS wirklich für das pädagogische Fachpersonal eingesetzt werden soll, bzw. ob ggf. mehr LWS monetarisiert werden)
+- **Budget für Ausstattung der Schule:** Nicht beziffert
+- **Kosten für bauliche Maßnahmen:** Große finanzielle Herausforderung, aber keine Zahlen
+- **Monetarisierte LWS:** 5 LWS beantragt (wird noch mit Gemeinde geprüft ob LWS wirklich für das pädagogische Fachpersonal eingesetzt werden soll, bzw. ob ggf. mehr LWS monetarisiert werden)
 
 ## Betreuung
 
 > Quellen: Sachstandsinformation 10.12.2025, Infoschreiben KiKom Okt. 2025
 
-- **Koordinationsstelle** - Geplant, aber noch nicht geschaffen/besetzt
-- **Gebühren für ergänzende Betreuung** - Gemeinderat entscheidet im Laufe von 2026
-- **Gebühren für Ferienbetreuung** - Gemeinderat entscheidet im Laufe von 2026
+- **Koordinationsstelle:** Geplant, aber noch nicht geschaffen/besetzt
+- **Gebühren für ergänzende Betreuung:** Gemeinderat entscheidet im Laufe von 2026
+- **Gebühren für Ferienbetreuung:** Gemeinderat entscheidet im Laufe von 2026
 
 ## Kooperationen
 
@@ -176,24 +176,24 @@ Kooperationen sind aktuell noch in Abstimmung. Bisher noch keine konkreten Vertr
 
 ## Räumlichkeiten / Bau
 
-- **Entscheidung über Raumerweiterung steht aus** - Laut Sachstandsinformation (10.12.2025) hat der Gemeinderat in einer Klausursitzung verschiedene Optionen (Erweiterung Bestandsstandorte, Zusammenlegung, Neubau) geprüft, konnte aber noch keine Entscheidung treffen. Baumaßnahmen werden als "große finanzielle Herausforderung" bezeichnet. Erst nach Ermittlung der notwendigen Grundlagen sollen die Überlegungen öffentlich vorgestellt werden.
+- **Entscheidung über Raumerweiterung steht aus:** Laut Sachstandsinformation (10.12.2025) hat der Gemeinderat in einer Klausursitzung verschiedene Optionen (Erweiterung Bestandsstandorte, Zusammenlegung, Neubau) geprüft, konnte aber noch keine Entscheidung treffen. Baumaßnahmen werden als "große finanzielle Herausforderung" bezeichnet. Erst nach Ermittlung der notwendigen Grundlagen sollen die Überlegungen öffentlich vorgestellt werden.
 
 **Nach aktuellen Aussagen sind keine Erweiterungen oder Modernisierungen geplant. Es werden ausschließlich Bestandsräume genutzt.**
 
 ## Sonstiges
 
-- **Schulleitung** - Vakant, nur kommissarische Leitung
+- **Schulleitung:** Vakant, nur kommissarische Leitung
 
 ## Kontakt Gemeinde zum Thema Ganztagsschule
 
-- **Koordination Ganztagesschule** - [Jacqueline Bier](https://www.march.de/de/Rathaus/Gemeindeverwaltung/Mitarbeiter-A-Z/Mitarbeiter?view=publish&item=staff&id=1049) (Gemeindeverwaltung March)
+- **Koordination Ganztagesschule:** [Jacqueline Bier](https://www.march.de/de/Rathaus/Gemeindeverwaltung/Mitarbeiter-A-Z/Mitarbeiter?view=publish&item=staff&id=1049) (Gemeindeverwaltung March)
 
 ---
 
 ## Weiterführende Links
 
-- [Ganztagsschule Baden-Württemberg](https://ganztagsschule.kultus-bw.de/,Lde/Startseite/Ganztagsschule+Baden-Wuerttemberg) - Informationsportal des Kultusministeriums
-- [Häufige Fragen und Antworten zur GTS](https://ganztagsschule.kultus-bw.de/,Lde/Startseite/Ganztagsschule+Baden-Wuerttemberg/Haeufige+Fragen+und+Antworten) - FAQ des Kultusministeriums
+- [Ganztagsschule Baden-Württemberg](https://ganztagsschule.kultus-bw.de/,Lde/Startseite/Ganztagsschule+Baden-Wuerttemberg) (Informationsportal des Kultusministeriums)
+- [Häufige Fragen und Antworten zur GTS](https://ganztagsschule.kultus-bw.de/,Lde/Startseite/Ganztagsschule+Baden-Wuerttemberg/Haeufige+Fragen+und+Antworten) (FAQ des Kultusministeriums)
 
 ---
 
