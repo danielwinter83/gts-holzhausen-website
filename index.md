@@ -11,9 +11,11 @@
 3. [Tagesstruktur (GTS-Tage: Mo-Mi)](#3-tagesstruktur-gts-tage-mo-mi)
 4. [Ergänzendes kommunales Betreuungsangebot](#4-ergänzendes-kommunales-betreuungsangebot-beschlossen-im-grundsatz)
 5. [Mittagessen / Mensa](#5-mittagessen--mensa)
-6. [Offene Punkte](#offene-punkte)
-7. [Weiterführende Links](#weiterführende-links)
-8. [Abkürzungsverzeichnis](#abkürzungsverzeichnis)
+6. [Lehrerwochenstunden (LWS)](#6-lehrerwochenstunden-lws)
+7. [Offene Punkte](#offene-punkte)
+8. [Kontakt Gemeinde](#kontakt-gemeinde-zum-thema-ganztagsschule)
+9. [Weiterführende Links](#weiterführende-links)
+10. [Abkürzungsverzeichnis](#abkürzungsverzeichnis)
 
 ---
 
@@ -21,8 +23,8 @@
 
 | Punkt | Details |
 |-------|---------|
-| **Schulform** | Verbindliche Ganztagsgrundschule (alle SuS nehmen teil) |
-| **Start** | Schuljahr 2026/2027 (September 2026) |
+| **Schulform** | Verbindliche Ganztagsgrundschule (alle SuS müssen verpflichtend teilnehmen) |
+| **Start** | voraussichtlich Schuljahr 2026/2027 (Antrag läuft noch) |
 | **GTS-Tage** | Montag, Dienstag, Mittwoch |
 | **Zeitmodell** | 3 Tage x 7 Zeitstunden |
 | **Unterrichtsbeginn** | 08:00 Uhr |
@@ -54,15 +56,15 @@
 2. **Bewegungspause 1** - 30 Min. (inkl. Pausenfrühstück)
 3. **Unterrichtsblock 2** - 90 Min. Pflichtunterricht
 4. **Pause 2** - 15 Min.
-5. **Individuelles Lernen (IL-Stunden)** - 45 Min.
+5. **Individuelles Lernen (IL-Stunden)** - 35 Min.
    - Ersetzt Hausaufgaben
-   - Betreut durch Lehrkraft + zusätzliches Personal
+   - Betreut durch Lehrkraft  (+ zusätzliches Personal, falls vorhanden)
    - Differenzierte Aufgaben: Pflicht-, Wahl- und Sternchenaufgaben
    - IL-Stunden können flexibel auch früher am Vormittag genutzt werden (Stundentausch)
 
 ### Mittagsband
 - **Teilnahme:** Freiwillig - Kinder können, müssen aber nicht teilnehmen
-- **Dauer:** 1 Zeitstunde
+- **Dauer:** 1:10 Std.
 - **Organisation:** 2 Tranchen a ca. 50 Kinder im Wechsel
 - **Essen:** Warmanlieferung, Bestellung über Bestellsystem durch Familien
 - **Personal:** Ganztagsteam + eigenes Küchenpersonal
@@ -74,10 +76,9 @@
   - Pflichtunterricht (je nach Klasse/Kontingentstundentafel)
   - AG-Angebote (Lehrkräfte, monetarisierte LWS)
   - Demokratieerziehung mit Schulsozialarbeit
-  - Kreative Angebote
+  - (Kreative Angebote)
 
-### AG-Bereiche (geplant)
-- Erholung und Entspannung
+> **Hinweis zu monetarisierten LWS:** Nach aktuellem Stand beabsichtigt die Gemeinde, das Budget der monetarisierten LWS für die pädagogischen Ganztagskräfte einzusetzen. In diesem Fall stünden keine weiteren Mittel für externe Angebote zur Verfügung. Dies wird derzeit noch geprüft (siehe [Lehrerwochenstunden](#6-lehrerwochenstunden-lws)).
 
 ---
 
@@ -92,18 +93,20 @@
 | **Vor dem Unterricht** | Keine Betreuung (einheitlicher Start 08:00 Uhr) |
 | **Orientierung** | Wie aktuell im Hort (bis 16:30 Uhr) |
 
-### Personal (geplant)
+### Personal (geplant aber noch *nicht beschlossen*)
 - Fachkräfte für Angebote und Unterstützung in IL-Zeiten
 - Gemeinde beabsichtigt **deutlich mehr Fachkräfte** als Minimum
 - **Koordinationsstelle** geplant (Schnittstelle Fachkräfte <-> Schulleitung)
 
 ### Ferienbetreuung (beschlossen im Grundsatz)
 
-> Quelle: Sachstandsinformation Gemeinde March, 10.12.2025 (Bürgermeister Helmut Mursa)
+> Quelle: Sachstandsinformation Gemeinde March, 10.12.2025 (Bürgermeister Helmut Mursa), Telefonat Frau Münchbach, vom 12.02.26
 
 - **Kostenpflichtiges** Ferienbetreuungsangebot für alle Grundschulkinder
 - Buchung von einer oder mehreren Betreuungswochen je nach Bedarf möglich
 - Gilt ab kommendem Schuljahr 2026/2027
+
+> **Wichtig:** In der ersten Septemberwoche 2026 wird es keine Ferienbetreuung geben, da in dieser Zeit die Einrichtung der Ganztagsräume stattfindet.
 
 ---
 
@@ -115,8 +118,29 @@
 | **Bestellung** | Über Bestellsystem durch die Familien |
 | **Kostenpflicht** | Ja (kostenpflichtig für Familien) |
 | **Personal** | Ganztagsteam + eigenes Küchenpersonal |
-| **Aktueller Standort** | Foyer der angrenzenden Halle, voraussichtlich mit Klapptischen. Küche der Halle ist voll ausgestattet. *(Bisher nur mündlich kommuniziert, noch nicht abschließend geklärt.)* |
+| **Aktueller Standort** | Foyer der angrenzenden Halle, voraussichtlich mit Klapptischen. Küche der Halle ist voll ausgestattet. *(Bisher nur mündlich kommuniziert, Begehung mit Herrn Mursa am 26.02 geplant)* |
 | **Kapazität** | 2 Schichten a ca. 50 Kinder |
+
+---
+
+## 6. Lehrerwochenstunden (LWS)
+
+> Quellen: Antrag GTS SJ 2026/2027 (S. 4-5), GaFöG-FAQs Landkreistag BW (Sept. 2025)
+
+### Was sind LWS?
+
+Für den Ganztagsbetrieb stellt das Land Baden-Württemberg jeder Schule zusätzliche **Lehrerwochenstunden (LWS)** zur Verfügung. Die Anzahl richtet sich nach der Gruppengröße, der Anzahl der GTS-Tage und der täglichen Dauer. Für Holzhausen ergeben sich aktuell **24 LWS**.
+
+### Monetarisierung
+
+Die Schule kann entscheiden, ob sie die LWS durch eigene Lehrkräfte abdeckt oder ganz bzw. teilweise **monetarisiert** - das heißt, den finanziellen Gegenwert nutzt, um externe Partner (z.B. Vereine, Musikschule, Künstler) für AG-Angebote zu bezahlen. Pro monetarisierter LWS stehen der Schule ca. 2.142 €/Jahr zur Verfügung.
+
+### Aktuelle Situation in Holzhausen
+
+- Im Antrag sind **5 LWS** zur Monetarisierung vorgesehen
+- Es wird derzeit geprüft, ob die Gemeinde das monetarisierte Budget für die Finanzierung der pädagogischen Ganztagskräfte einsetzen möchte - oder ob es (auch) für externe Angebote verwendet werden kann
+- Unabhängig davon gibt es bereits **mehrere potenzielle externe Partner**, die Interesse an einer Kooperation mit der GTS Holzhausen haben
+- Die zentrale Herausforderung bleibt: Lehrkräfte für die GTS-Stunden zu gewinnen bzw. bei Monetarisierung geeignete externe Partner zu finden und zu finanzieren
 
 ---
 
@@ -136,7 +160,7 @@
 
 - **Budget für Ausstattung der Schule** - Nicht beziffert
 - **Kosten für bauliche Maßnahmen** - Große finanzielle Herausforderung, aber keine Zahlen
-- **Monetarisierte LWS** - 5 LWS beantragt, finanzieller Gegenwert nicht beziffert
+- **Monetarisierte LWS** - 5 LWS beantragt (wird noch mit Gemeinde geprüft ob LWS wirklich für das pädagogische Fachpersonal eingesetzt werden soll, bzw. ob ggf. mehr LWS monetarisiert werden)
 
 ## Betreuung
 
@@ -158,10 +182,11 @@ Kooperationen sind aktuell noch in Abstimmung. Bisher noch keine konkreten Vertr
 
 ## Sonstiges
 
-> Quellen: Antrag GTS SJ 2026/2027 (S. 9, 11), Sachstandsinformation 10.12.2025
-
 - **Schulleitung** - Vakant, nur kommissarische Leitung
 
+## Kontakt Gemeinde zum Thema Ganztagsschule
+
+- **Koordination Ganztagesschule** - [Jacqueline Bier](https://www.march.de/de/Rathaus/Gemeindeverwaltung/Mitarbeiter-A-Z/Mitarbeiter?view=publish&item=staff&id=1049) (Gemeindeverwaltung March)
 
 ---
 
@@ -186,4 +211,4 @@ Kooperationen sind aktuell noch in Abstimmung. Bisher noch keine konkreten Vertr
 
 ---
 
-Stand: 10.02.2026
+Stand: 12.02.2026
