@@ -10,7 +10,7 @@ Personenbezogene Daten werden nur im Rahmen der Erforderlichkeit zur Bereitstell
 
 Gemäß Art. 4 Nr. 1 DSGVO umfasst „Verarbeitung" jeden Vorgang mit automatisierten Verfahren im Zusammenhang mit personenbezogenen Daten, wie Erheben, Erfassen, Organisation, Speicherung, Anpassung, Auslesen, Abfragen, Verwendung, Offenlegung, Verbreitung, Abgleich, Verknüpfung, Einschränkung, Löschen oder Vernichtung.
 
-### I. Informationen über uns als Verantwortliche
+### I. Verantwortlicher
 
 **Daniel Winter**<br>
 Elternbeiratsvorsitzender der Grundschule Holzhausen<br>
