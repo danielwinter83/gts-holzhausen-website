@@ -128,7 +128,7 @@
 
 ## 6. Lehrerwochenstunden (LWS)
 
-> Quellen: Antrag GTS SJ 2026/2027 (S. 4-5), GaFöG-FAQs Landkreistag BW (Sept. 2025)
+> Quellen: Antrag GTS SJ 2026/2027 (S. 4-5), [GaFöG-FAQs Landkreistag BW (Sept. 2025)](docs/GaFöG-FAQs Landkreistag Ba-Wü_Stand September 20251.pdf)
 
 ### Was sind LWS?
 
@@ -213,6 +213,7 @@ Kooperationen sind aktuell noch in Abstimmung. Bisher noch keine konkreten Vertr
 - [Sachstandsinformation Gemeinde, Dez. 2025](docs/2025_12-Sachstandinformation.pdf)
 - [Sachstandsinformation Gemeinde, Feb. 2026](docs/2026_02-Sachstandsinformation.pdf)
 - [Infoschreiben KiKom, Okt. 2025](docs/kikom/2025_10-Infoschreiben)
+- [GaFöG-FAQs Landkreistag BW, Sept. 2025](docs/GaFöG-FAQs Landkreistag Ba-Wü_Stand September 20251.pdf)
 
 ## Weiterführende Links
 
