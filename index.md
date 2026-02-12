@@ -1,4 +1,4 @@
-> **Hinweis:** Diese Zusammenfassung wurde vom Elternbeiratsvorsitzenden der Grundschule Holzhausen aus öffentlich zugänglichen Informationen zusammengestellt, um Eltern vor Ort einen Überblick über die geplante Ganztagsschule zu geben. Es handelt sich weder um ein offizielles Dokument der Gemeinde March noch der Grundschule Holzhausen. Alle Angaben wurden nach bestem Wissen und Gewissen zusammengetragen; Fehler oder Unvollständigkeiten können jedoch nicht ausgeschlossen werden.
+> **Hinweis:** Diese Zusammenfassung wurde vom Elternbeiratsvorsitzenden der Grundschule Holzhausen aus öffentlich zugänglichen Informationen sowie Gesprächen mit der Schulleitung zusammengestellt, um Eltern vor Ort einen Überblick über die geplante Ganztagsschule zu geben. Es handelt sich weder um ein offizielles Dokument der Gemeinde March noch der Grundschule Holzhausen. Alle Angaben wurden nach bestem Wissen und Gewissen zusammengetragen; Fehler oder Unvollständigkeiten können jedoch nicht ausgeschlossen werden.
 
 > Zusammengetragen aus: Antrag GTS SJ 2026/2027, Infoschreiben KiKom (Okt. 2025), Sachstandsinformation Gemeinde (Dez. 2025), Telefonate mit der Schulleitung
 
