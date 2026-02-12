@@ -12,7 +12,7 @@
 4. [Ergänzendes kommunales Betreuungsangebot](#4-ergänzendes-kommunales-betreuungsangebot-beschlossen-im-grundsatz)
 5. [Mittagessen / Mensa](#5-mittagessen--mensa)
 6. [Lehrerwochenstunden (LWS)](#6-lehrerwochenstunden-lws)
-7. [Offene Punkte](#offene-punkte)
+7. [Offene Punkte & Ausstehende Entscheidungen](#7-offene-punkte--ausstehende-entscheidungen)
 8. [Kontakt Gemeinde](#kontakt-gemeinde-zum-thema-ganztagsschule)
 9. [Dokumente zum Download](#dokumente-zum-download)
 10. [Weiterführende Links](#weiterführende-links)
@@ -147,9 +147,24 @@ Die Schule kann entscheiden, ob sie die LWS durch eigene Lehrkräfte abdeckt ode
 
 ---
 
-# OFFENE PUNKTE
+## 7. Offene Punkte & Ausstehende Entscheidungen
 
-## Catering
+### Übersicht
+
+| Entscheidung | Zuständig | Zeitrahmen | Status |
+|---|---|---|---|
+| Genehmigung der GTS | Prüfbehörde (Land) | offen | ausstehend |
+| Gebühren ergänzende Betreuung | Gemeinderat | voraussichtlich Ende März 2026 | ausstehend |
+| Gebühren Ferienbetreuung | Gemeinderat | voraussichtlich Ende März 2026 | ausstehend |
+| Caterer / Lieferant Mittagessen | Gemeinde | nicht bekannt | ausstehend |
+| Kosten pro Mahlzeit | Gemeinde | nicht bekannt | ausstehend |
+| Bestellsystem Mittagessen | Gemeinde | nicht bekannt | ausstehend |
+| Verwendung monetarisierte LWS | Gemeinde / Schule | nicht bekannt | ausstehend |
+| Koordinationsstelle besetzen | Gemeinde | nicht bekannt | ausstehend |
+| Langfristige Schulstandort-Ausrichtung | Gemeinderat | öffentliche Info Ostern bis Pfingsten 2026 | ausstehend |
+| Kooperationsverträge (externe Partner) | Schule / Gemeinde | nicht bekannt | ausstehend |
+
+### Catering
 
 > Quellen: Antrag GTS SJ 2026/2027 (S. 7-8), Sachstandsinformation Gemeinde (Dez. 2025, Feb. 2026)
 
@@ -157,15 +172,15 @@ Die Schule kann entscheiden, ob sie die LWS durch eigene Lehrkräfte abdeckt ode
 - **Kosten pro Mahlzeit?** Essen ist kostenpflichtig für Familien, aber die Höhe der Kosten ist nicht festgelegt
 - **Bestellsystem:** Welches System wird verwendet? Noch nicht spezifiziert
 
-## Budget / Finanzen
+### Budget / Finanzen
 
-> Quellen: Sachstandsinformation Gemeinde (Dez. 2025, Feb. 2026), Antrag GTS SJ 2026/2027 (S. 4-5)
+> Quellen: Sachstandsinformation Gemeinde (Dez. 2025, Feb. 2026), Antrag GTS SJ 2026/2027 (S. 4-5), Telefonat Frau Münchbach (12.02.26)
 
 - **Budget für Ausstattung der Schule:** Nicht beziffert
 - **Kosten für bauliche Maßnahmen:** Große finanzielle Herausforderung, aber keine Zahlen
 - **Monetarisierte LWS:** 5 LWS beantragt (wird noch mit Gemeinde geprüft ob LWS wirklich für das pädagogische Fachpersonal eingesetzt werden soll, bzw. ob ggf. mehr LWS monetarisiert werden)
 
-## Betreuung
+### Betreuung
 
 > Quellen: Sachstandsinformation Gemeinde (Dez. 2025, Feb. 2026), Infoschreiben KiKom (Okt. 2025)
 
@@ -173,17 +188,17 @@ Die Schule kann entscheiden, ob sie die LWS durch eigene Lehrkräfte abdeckt ode
 - **Gebühren für ergänzende Betreuung:** Gemeinderat entscheidet voraussichtlich Ende März 2026. Separates Schreiben über Kosten, Betreuungszeiten und Anmeldung angekündigt.
 - **Gebühren für Ferienbetreuung:** Gemeinderat entscheidet voraussichtlich Ende März 2026
 
-## Kooperationen
+### Kooperationen
 
 Kooperationen sind aktuell noch in Abstimmung. Bisher noch keine konkreten Verträge geschlossen.
 
-## Räumlichkeiten / Bau
+### Räumlichkeiten / Bau
 
 - **Qualitätsstufe 1 bestätigt:** Laut Schulamt verfügen alle drei Standorte über ausreichende Räume und Ausstattung für eine GTS in [Qualitätsstufe 1](https://ganztagsschule.kultus-bw.de/,Lde/Startseite/Qualitaetsrahmen+Ganztagsschule) (Einstiegsstufe, Prozesse werden initiiert).
 - **Begehungen durchgeführt:** An allen drei Standorten fanden Begehungen mit Schul-/Hortleitung und dem Bauamt der Gemeinde statt. Raumnutzungspläne werden überarbeitet, Zeitpläne für Bau- und Umzugsmaßnahmen erstellt.
 - **Entscheidung über langfristige Ausrichtung steht aus:** Der Gemeinderat hat verschiedene Optionen (Erweiterung Bestandsstandorte, Zusammenlegung, Neubau) geprüft, konnte aber noch keine Entscheidung treffen. Eine öffentliche Information ist **zwischen Ostern und Pfingsten 2026** vorgesehen. Entscheidungen sollen noch 2026 getroffen werden.
 
-## Sonstiges
+### Sonstiges
 
 - **Schulleitung:** Vakant, nur kommissarische Leitung
 
@@ -197,7 +212,7 @@ Kooperationen sind aktuell noch in Abstimmung. Bisher noch keine konkreten Vertr
 
 - [Sachstandsinformation Gemeinde, Dez. 2025](docs/2025_12-Sachstandinformation.pdf)
 - [Sachstandsinformation Gemeinde, Feb. 2026](docs/2026_02-Sachstandsinformation.pdf)
-- [Infoschreiben KiKom, Okt. 2025](docs/kikom/2025_10-Infoschreiben über die Entwicklung zur GTS)
+- [Infoschreiben KiKom, Okt. 2025](docs/kikom/2025_10-Infoschreiben)
 
 ## Weiterführende Links
 
