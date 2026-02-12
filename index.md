@@ -1,6 +1,6 @@
 > **Hinweis:** Diese Zusammenfassung wurde vom Elternbeiratsvorsitzenden der Grundschule Holzhausen aus öffentlich zugänglichen Informationen zusammengestellt, um Eltern vor Ort einen Überblick über die geplante Ganztagsschule zu geben. Es handelt sich weder um ein offizielles Dokument der Gemeinde March noch der Grundschule Holzhausen. Alle Angaben wurden nach bestem Wissen und Gewissen zusammengetragen; Fehler oder Unvollständigkeiten können jedoch nicht ausgeschlossen werden.
 
-> Zusammengetragen aus: Antrag GTS SJ 2026/2027, Infoschreiben KiKom (Okt. 2025), Sachstandsinformation Gemeinde (Dez. 2025)
+> Zusammengetragen aus: Antrag GTS SJ 2026/2027, Infoschreiben KiKom (Okt. 2025), Sachstandsinformation Gemeinde (Dez. 2025), Telefonate mit der Schulleitung
 
 ---
 
@@ -23,7 +23,7 @@
 
 | Punkt | Details |
 |-------|---------|
-| **Schulform** | Verbindliche Ganztagsgrundschule (alle SuS müssen verpflichtend teilnehmen) |
+| **Schulform** | Verbindliche Ganztagsgrundschule (alle Schülerinnen und Schüler müssen verpflichtend teilnehmen) |
 | **Start** | voraussichtlich Schuljahr 2026/2027 (Antrag läuft noch) |
 | **GTS-Tage** | Montag, Dienstag, Mittwoch |
 | **Zeitmodell** | 3 Tage x 7 Zeitstunden |
@@ -138,7 +138,7 @@ Die Schule kann entscheiden, ob sie die LWS durch eigene Lehrkräfte abdeckt ode
 ### Aktuelle Situation in Holzhausen
 
 - Im Antrag sind **5 LWS** zur Monetarisierung vorgesehen
-- Es wird derzeit geprüft, ob die Gemeinde das monetarisierte Budget für die Finanzierung der pädagogischen Ganztagskräfte einsetzen möchte - oder ob es (auch) für externe Angebote verwendet werden kann
+- Es wird derzeit geprüft, ob die Gemeinde das monetarisierte Budget für die Finanzierung der pädagogischen Ganztagskräfte einsetzt - oder ob es, wie eigentlich vorgesehen, für externe Angebote verwendet werden kann
 - Unabhängig davon gibt es bereits **mehrere potenzielle externe Partner**, die Interesse an einer Kooperation mit der GTS Holzhausen haben
 - Die zentrale Herausforderung bleibt: Lehrkräfte für die GTS-Stunden zu gewinnen bzw. bei Monetarisierung geeignete externe Partner zu finden und zu finanzieren
 
@@ -207,7 +207,6 @@ Kooperationen sind aktuell noch in Abstimmung. Bisher noch keine konkreten Vertr
 | **KiKom** | Kommunikations-App des Horts |
 | **LWS** | Lehrerwochenstunden |
 | **SJ** | Schuljahr |
-| **SuS** | Schülerinnen und Schüler |
 
 ---
 
