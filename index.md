@@ -1,6 +1,6 @@
 > **Hinweis:** Diese Zusammenfassung wurde vom Elternbeiratsvorsitzenden der Grundschule Holzhausen aus öffentlich zugänglichen Informationen sowie Gesprächen mit der Schulleitung zusammengestellt, um Eltern vor Ort einen Überblick über die geplante Ganztagsschule zu geben. Es handelt sich weder um ein offizielles Dokument der Gemeinde March noch der Grundschule Holzhausen. Alle Angaben wurden nach bestem Wissen und Gewissen zusammengetragen; Fehler oder Unvollständigkeiten können jedoch nicht ausgeschlossen werden.
 
-> Zusammengetragen aus: Antrag GTS SJ 2026/2027, Infoschreiben KiKom (Okt. 2025), Sachstandsinformation Gemeinde (Dez. 2025), Telefonate mit der Schulleitung
+> Zusammengetragen aus: Antrag GTS SJ 2026/2027, Infoschreiben KiKom (Okt. 2025), Sachstandsinformation Gemeinde (Dez. 2025), Sachstandsinformation Gemeinde (Feb. 2026), Telefonate mit der Schulleitung
 
 ---
 
@@ -14,8 +14,9 @@
 6. [Lehrerwochenstunden (LWS)](#6-lehrerwochenstunden-lws)
 7. [Offene Punkte](#offene-punkte)
 8. [Kontakt Gemeinde](#kontakt-gemeinde-zum-thema-ganztagsschule)
-9. [Weiterführende Links](#weiterführende-links)
-10. [Abkürzungsverzeichnis](#abkürzungsverzeichnis)
+9. [Dokumente zum Download](#dokumente-zum-download)
+10. [Weiterführende Links](#weiterführende-links)
+11. [Abkürzungsverzeichnis](#abkürzungsverzeichnis)
 
 ---
 
@@ -24,7 +25,7 @@
 | Punkt | Details |
 |-------|---------|
 | **Schulform** | Verbindliche Ganztagsgrundschule (alle Schülerinnen und Schüler müssen verpflichtend teilnehmen) |
-| **Start** | voraussichtlich Schuljahr 2026/2027 (Antrag läuft noch) |
+| **Start** | voraussichtlich Schuljahr 2026/2027 (Vor-Ort-Begehung mit Schulamt erfolgt, Rückmeldung der Prüfbehörde steht aus) |
 | **GTS-Tage** | Montag, Dienstag, Mittwoch |
 | **Zeitmodell** | 3 Tage x 7 Zeitstunden |
 | **Unterrichtsbeginn** | 08:00 Uhr |
@@ -63,11 +64,12 @@
    - IL-Stunden können flexibel auch früher am Vormittag genutzt werden (Stundentausch)
 
 ### Mittagsband
-- **Teilnahme:** Freiwillig (Kinder können, müssen aber nicht teilnehmen)
+- **Teilnahme:** Freiwillig, keine Schulpflicht im Mittagsband
+- **Optionen für die Kinder:** nach Hause gehen (ohne Aufsicht), eigenes Vesper in der Mensa, oder warmes Mittagessen (kostenpflichtig)
 - **Dauer:** 1:10 Std.
 - **Organisation:** 2 Tranchen a ca. 50 Kinder im Wechsel
 - **Essen:** Warmanlieferung, Bestellung über Bestellsystem durch Familien
-- **Personal:** Ganztagsteam + eigenes Küchenpersonal
+- **Personal:** Pädagogische Begleitung durch Hortfachkräfte + eigenes Küchenpersonal
 - **Mittagspause:** Selbstbestimmung der Kinder (Ruhebereich, Bewegung, Spiel-/Kreativbereiche)
 - **Weiche Übergänge** zwischen Essen und Freizeit
 
@@ -84,12 +86,12 @@
 
 ## 4. Ergänzendes kommunales Betreuungsangebot (beschlossen im Grundsatz)
 
-> Quelle: Sachstandsinformation Gemeinde March, 10.12.2025 (Bürgermeister Helmut Mursa)
+> Quellen: Sachstandsinformation Gemeinde (Dez. 2025, Feb. 2026)
 
 | Punkt | Details |
 |-------|---------|
 | **An GTS-Tagen (Mo-Mi)** | Betreuung nach 15:00 Uhr bis 16:30 Uhr |
-| **An Nicht-GTS-Tagen (Do-Fr)** | Optional bis 14:00 Uhr oder 16:30 Uhr |
+| **An Nicht-GTS-Tagen (Do-Fr)** | Optional bis 14:00 Uhr oder 16:30 Uhr. Mittagessen in der Schule nur bei Buchung der ergänzenden Betreuung möglich. |
 | **Vor dem Unterricht** | Keine Betreuung (einheitlicher Start 08:00 Uhr) |
 | **Orientierung** | Wie aktuell im Hort (bis 16:30 Uhr) |
 
@@ -100,10 +102,11 @@
 
 ### Ferienbetreuung (beschlossen im Grundsatz)
 
-> Quelle: Sachstandsinformation Gemeinde March, 10.12.2025 (Bürgermeister Helmut Mursa), Telefonat Frau Münchbach, vom 12.02.26
+> Quellen: Sachstandsinformation Gemeinde (Dez. 2025, Feb. 2026), Telefonat Frau Münchbach (12.02.26)
 
 - **Kostenpflichtiges** Ferienbetreuungsangebot für alle Grundschulkinder
 - Buchung von einer oder mehreren Betreuungswochen je nach Bedarf möglich
+- Maximal **4 Wochen Schließzeit** pro Schuljahr
 - Gilt ab kommendem Schuljahr 2026/2027
 
 > **Wichtig:** In der ersten Septemberwoche 2026 wird es keine Ferienbetreuung geben, da in dieser Zeit die Einrichtung der Ganztagsräume stattfindet.
@@ -148,7 +151,7 @@ Die Schule kann entscheiden, ob sie die LWS durch eigene Lehrkräfte abdeckt ode
 
 ## Catering
 
-> Quellen: Antrag GTS SJ 2026/2027 (S. 7-8), Sachstandsinformation 10.12.2025
+> Quellen: Antrag GTS SJ 2026/2027 (S. 7-8), Sachstandsinformation Gemeinde (Dez. 2025, Feb. 2026)
 
 - **Wer übernimmt das Catering?** Warmanlieferung ist beschlossen, aber der konkrete Caterer/Lieferant ist nicht genannt
 - **Kosten pro Mahlzeit?** Essen ist kostenpflichtig für Familien, aber die Höhe der Kosten ist nicht festgelegt
@@ -156,7 +159,7 @@ Die Schule kann entscheiden, ob sie die LWS durch eigene Lehrkräfte abdeckt ode
 
 ## Budget / Finanzen
 
-> Quellen: Sachstandsinformation 10.12.2025, Antrag GTS SJ 2026/2027 (S. 4-5)
+> Quellen: Sachstandsinformation Gemeinde (Dez. 2025, Feb. 2026), Antrag GTS SJ 2026/2027 (S. 4-5)
 
 - **Budget für Ausstattung der Schule:** Nicht beziffert
 - **Kosten für bauliche Maßnahmen:** Große finanzielle Herausforderung, aber keine Zahlen
@@ -164,11 +167,11 @@ Die Schule kann entscheiden, ob sie die LWS durch eigene Lehrkräfte abdeckt ode
 
 ## Betreuung
 
-> Quellen: Sachstandsinformation 10.12.2025, Infoschreiben KiKom Okt. 2025
+> Quellen: Sachstandsinformation Gemeinde (Dez. 2025, Feb. 2026), Infoschreiben KiKom (Okt. 2025)
 
 - **Koordinationsstelle:** Geplant, aber noch nicht geschaffen/besetzt
-- **Gebühren für ergänzende Betreuung:** Gemeinderat entscheidet im Laufe von 2026
-- **Gebühren für Ferienbetreuung:** Gemeinderat entscheidet im Laufe von 2026
+- **Gebühren für ergänzende Betreuung:** Gemeinderat entscheidet voraussichtlich Ende März 2026. Separates Schreiben über Kosten, Betreuungszeiten und Anmeldung angekündigt.
+- **Gebühren für Ferienbetreuung:** Gemeinderat entscheidet voraussichtlich Ende März 2026
 
 ## Kooperationen
 
@@ -176,9 +179,9 @@ Kooperationen sind aktuell noch in Abstimmung. Bisher noch keine konkreten Vertr
 
 ## Räumlichkeiten / Bau
 
-- **Entscheidung über Raumerweiterung steht aus:** Laut Sachstandsinformation (10.12.2025) hat der Gemeinderat in einer Klausursitzung verschiedene Optionen (Erweiterung Bestandsstandorte, Zusammenlegung, Neubau) geprüft, konnte aber noch keine Entscheidung treffen. Baumaßnahmen werden als "große finanzielle Herausforderung" bezeichnet. Erst nach Ermittlung der notwendigen Grundlagen sollen die Überlegungen öffentlich vorgestellt werden.
-
-**Nach aktuellen Aussagen sind keine Erweiterungen oder Modernisierungen geplant. Es werden ausschließlich Bestandsräume genutzt.**
+- **Qualitätsstufe 1 bestätigt:** Laut Schulamt verfügen alle drei Standorte über ausreichende Räume und Ausstattung für eine GTS in [Qualitätsstufe 1](https://ganztagsschule.kultus-bw.de/,Lde/Startseite/Qualitaetsrahmen+Ganztagsschule) (Einstiegsstufe, Prozesse werden initiiert).
+- **Begehungen durchgeführt:** An allen drei Standorten fanden Begehungen mit Schul-/Hortleitung und dem Bauamt der Gemeinde statt. Raumnutzungspläne werden überarbeitet, Zeitpläne für Bau- und Umzugsmaßnahmen erstellt.
+- **Entscheidung über langfristige Ausrichtung steht aus:** Der Gemeinderat hat verschiedene Optionen (Erweiterung Bestandsstandorte, Zusammenlegung, Neubau) geprüft, konnte aber noch keine Entscheidung treffen. Eine öffentliche Information ist **zwischen Ostern und Pfingsten 2026** vorgesehen. Entscheidungen sollen noch 2026 getroffen werden.
 
 ## Sonstiges
 
@@ -190,10 +193,17 @@ Kooperationen sind aktuell noch in Abstimmung. Bisher noch keine konkreten Vertr
 
 ---
 
+## Dokumente zum Download
+
+- [Sachstandsinformation Gemeinde, Dez. 2025](docs/2025_12-Sachstandinformation.pdf)
+- [Sachstandsinformation Gemeinde, Feb. 2026](docs/2026_02-Sachstandsinformation.pdf)
+- [Infoschreiben KiKom, Okt. 2025](docs/kikom/2025_10-Infoschreiben über die Entwicklung zur GTS)
+
 ## Weiterführende Links
 
 - [Ganztagsschule Baden-Württemberg](https://ganztagsschule.kultus-bw.de/,Lde/Startseite/Ganztagsschule+Baden-Wuerttemberg) (Informationsportal des Kultusministeriums)
 - [Häufige Fragen und Antworten zur GTS](https://ganztagsschule.kultus-bw.de/,Lde/Startseite/Ganztagsschule+Baden-Wuerttemberg/Haeufige+Fragen+und+Antworten) (FAQ des Kultusministeriums)
+- [Qualitätsrahmen Ganztagsschule BW](https://ganztagsschule.kultus-bw.de/,Lde/Startseite/Qualitaetsrahmen+Ganztagsschule) (Qualitätsstufen des Kultusministeriums)
 
 ---
 
@@ -210,4 +220,4 @@ Kooperationen sind aktuell noch in Abstimmung. Bisher noch keine konkreten Vertr
 
 ---
 
-Stand: 12.02.2026
+Stand: 12.02.2026 (aktualisiert mit Sachstandsinformation Feb. 2026)
