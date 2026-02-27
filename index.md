@@ -68,7 +68,7 @@
 - **Optionen für die Kinder:** nach Hause gehen (ohne Aufsicht), eigenes Vesper in der Mensa, oder warmes Mittagessen (kostenpflichtig)
 - **Dauer:** 1:10 Std.
 - **Organisation:** 2 Tranchen a ca. 50 Kinder im Wechsel
-- **Essen:** Warmanlieferung, Bestellung über Bestellsystem durch Familien
+- **Essen:** Warmanlieferung; Auswahl der Gerichte durch die pädagogischen Kräfte (nicht durch Eltern). Bei Fleischgerichten gibt es eine vegetarische Alternative. *(System wie im Kindergarten/Hort)*
 - **Personal:** Pädagogische Begleitung durch Hortfachkräfte + eigenes Küchenpersonal
 - **Mittagspause:** Selbstbestimmung der Kinder (Ruhebereich, Bewegung, Spiel-/Kreativbereiche)
 - **Weiche Übergänge** zwischen Essen und Freizeit
@@ -102,10 +102,11 @@
 
 ### Ferienbetreuung (beschlossen im Grundsatz)
 
-> Quellen: Sachstandsinformation Gemeinde (Dez. 2025, Feb. 2026), Telefonat Frau Münchbach (12.02.26)
+> Quellen: Sachstandsinformation Gemeinde (Dez. 2025, Feb. 2026), Telefonat Frau Münchbach (12.02.26), Info-Abend IG GTS (26.02.2026)
 
 - **Kostenpflichtiges** Ferienbetreuungsangebot für alle Grundschulkinder
-- Buchung von einer oder mehreren Betreuungswochen je nach Bedarf möglich
+- Buchung **wochenweise** möglich
+- Bei zu kleinen Gruppen werden Kinder standortübergreifend mit anderen Ferienbetreuungsgruppen aus der March zusammengelegt (z.B. könnte ein Kind aus Holzhausen einer Gruppe in Neuershausen zugeteilt werden)
 - Maximal **4 Wochen Schließzeit** pro Schuljahr
 - Gilt ab kommendem Schuljahr 2026/2027
 
@@ -118,11 +119,14 @@
 | Punkt | Details |
 |-------|---------|
 | **Lieferform** | Warmanlieferung |
-| **Bestellung** | Über Bestellsystem durch die Familien |
+| **Essensauswahl** | Durch die pädagogischen Kräfte (nicht durch Eltern). Bei Fleischgerichten gibt es eine vegetarische Alternative. System wie im Kindergarten/Hort. |
 | **Kostenpflicht** | Ja (kostenpflichtig für Familien) |
 | **Personal** | Ganztagsteam + eigenes Küchenpersonal |
 | **Aktueller Standort** | Foyer der angrenzenden Halle, voraussichtlich mit Klapptischen. Küche der Halle ist voll ausgestattet. *(Bisher nur mündlich kommuniziert, Begehung mit Herrn Mursa am 26.02 geplant)* |
+| **Änderung** | Teilnahme am Mittagessen kann halbjährlich geändert werden |
 | **Kapazität** | 2 Schichten a ca. 50 Kinder |
+
+> Quellen: Antrag GTS SJ 2026/2027 (S. 7-8), Info-Abend IG GTS (26.02.2026)
 
 ---
 
@@ -158,7 +162,6 @@ Die Schule kann entscheiden, ob sie die LWS durch eigene Lehrkräfte abdeckt ode
 | Gebühren Ferienbetreuung | Gemeinderat | voraussichtlich Ende März 2026 | ausstehend |
 | Caterer / Lieferant Mittagessen | Gemeinde | nicht bekannt | ausstehend |
 | Kosten pro Mahlzeit | Gemeinde | nicht bekannt | ausstehend |
-| Bestellsystem Mittagessen | Gemeinde | nicht bekannt | ausstehend |
 | Verwendung monetarisierte LWS | Gemeinde / Schule | nicht bekannt | ausstehend |
 | Koordinationsstelle besetzen | Gemeinde | nicht bekannt | ausstehend |
 | Langfristige Schulstandort-Ausrichtung | Gemeinderat | öffentliche Info Ostern bis Pfingsten 2026 | ausstehend |
@@ -166,11 +169,11 @@ Die Schule kann entscheiden, ob sie die LWS durch eigene Lehrkräfte abdeckt ode
 
 ### Catering
 
-> Quellen: Antrag GTS SJ 2026/2027 (S. 7-8), Sachstandsinformation Gemeinde (Dez. 2025, Feb. 2026)
+> Quellen: Antrag GTS SJ 2026/2027 (S. 7-8), Sachstandsinformation Gemeinde (Dez. 2025, Feb. 2026), Info-Abend IG GTS (26.02.2026)
 
 - **Wer übernimmt das Catering?** Warmanlieferung ist beschlossen, aber der konkrete Caterer/Lieferant ist nicht genannt
 - **Kosten pro Mahlzeit?** Essen ist kostenpflichtig für Familien, aber die Höhe der Kosten ist nicht festgelegt
-- **Bestellsystem:** Welches System wird verwendet? Noch nicht spezifiziert
+- **Essensauswahl:** Gerichte werden von den pädagogischen Kräften ausgewählt (keine Auswahl durch Eltern). Bei Fleischgerichten gibt es vegetarische Alternativen. *(Gleiches System wie im Kindergarten/Hort)*
 
 ### Budget / Finanzen
 
@@ -236,4 +239,15 @@ Kooperationen sind aktuell noch in Abstimmung. Bisher noch keine konkreten Vertr
 
 ---
 
-Stand: 12.02.2026 (aktualisiert mit Sachstandsinformation Feb. 2026)
+Stand: 27.02.2026 · Version 1.3
+
+---
+
+## Änderungsprotokoll
+
+| Version | Datum | Änderungen | Quelle |
+|---------|-------|------------|--------|
+| **1.3** | 27.02.2026 | Mittagessen: Essensauswahl durch pädagogische Kräfte, vegetarische Alternative bei Fleisch, Teilnahme halbjährlich änderbar. Ferienbetreuung: wochenweise buchbar, standortübergreifende Zusammenlegung bei kleinen Gruppen. | Info-Abend IG GTS (26.02.2026) |
+| **1.2** | 24.02.2026 | GaFöG-FAQs als Quelle verlinkt. Offene Punkte umstrukturiert mit Übersichtstabelle. | GaFöG-FAQs Landkreistag BW |
+| **1.1** | 12.02.2026 | Aktualisierung mit Sachstandsinformation Feb. 2026, Uhrzeiten bei Tagesstruktur ergänzt | Sachstandsinformation Gemeinde (Feb. 2026) |
+| **1.0** | 06.02.2026 | Erstveröffentlichung | Antrag GTS SJ 2026/2027, Sachstandsinformation Gemeinde (Dez. 2025), Infoschreiben KiKom |
