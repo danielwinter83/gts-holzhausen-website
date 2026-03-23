@@ -177,6 +177,7 @@ Die Schule kann entscheiden, ob sie die LWS durch eigene Lehrkräfte abdeckt ode
 - **Wer übernimmt das Catering?** Warmanlieferung ist beschlossen, aber der konkrete Caterer/Lieferant ist nicht genannt. Gemeinde steht in engem Austausch mit Schulen und Betreuungsteams, um praktikable und kindgerechte Lösungen zu finden.
 - **Kosten pro Mahlzeit?** Essen ist kostenpflichtig für Familien, aber die Höhe der Kosten ist nicht festgelegt
 - **Essensauswahl:** Gerichte werden von den pädagogischen Kräften ausgewählt (keine Auswahl durch Eltern). Bei Fleischgerichten gibt es vegetarische Alternativen. *(Gleiches System wie im Kindergarten/Hort)*
+- **Ausschreibung:** Die Gemeinde hat die Ausschreibung der Mittagsverpflegung vorbereitet. Der Gesamtelternbeirat (GEB) der Schulen in March wurde um Prüfung gebeten und hat am 10.03.2026 eine [Stellungnahme](docs/Stellungnahme des Gesamtelternbeirats Schulen March.pdf) eingereicht. Darin fordert der GEB u.a. individuelle Menüwahl per MensaMax-System (statt kollektiver Essenswahl durch Personal), kürzere Abbestellfristen, quartalsweise Feedbackgespräche, einen Mensa-Beirat sowie Qualitätsfokus vor Preis.
 
 ### Budget / Finanzen
 
@@ -222,6 +223,7 @@ Kooperationen sind aktuell noch in Abstimmung. Bisher noch keine konkreten Vertr
 - [Sachstandsinformation Gemeinde, Dez. 2025](docs/2025_12-Sachstandinformation.pdf)
 - [Sachstandsinformation Gemeinde, Feb. 2026](docs/2026_02-Sachstandsinformation.pdf)
 - [Sachstandsinformation Gemeinde, Mär. 2026](docs/2026_03-Sachstandsinformation Ganztaggsgrundschule.pdf)
+- [Stellungnahme GEB Schulen March zur Mittagsverpflegung, Mär. 2026](docs/Stellungnahme des Gesamtelternbeirats Schulen March.pdf)
 - [Infoschreiben KiKom, Okt. 2025](docs/kikom/2025_10-Infoschreiben)
 - [GaFöG-FAQs Landkreistag BW, Sept. 2025](docs/GaFöG-FAQs Landkreistag Ba-Wü_Stand September 20251.pdf)
 
@@ -238,6 +240,7 @@ Kooperationen sind aktuell noch in Abstimmung. Bisher noch keine konkreten Vertr
 | Abkürzung | Bedeutung |
 |-----------|-----------|
 | **AG** | Arbeitsgemeinschaft |
+| **GEB** | Gesamtelternbeirat |
 | **GTS** | Ganztagsschule |
 | **IG** | Interessensgemeinschaft |
 | **IL** | Individuelles Lernen (ersetzt Hausaufgaben an GTS-Tagen) |
