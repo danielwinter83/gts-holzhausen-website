@@ -1,6 +1,6 @@
 > **Hinweis:** Diese Zusammenfassung wurde vom Elternbeiratsvorsitzenden der Grundschule Holzhausen aus öffentlich zugänglichen Informationen sowie Gesprächen mit der Schulleitung zusammengestellt, um Eltern vor Ort einen Überblick über die geplante Ganztagsschule zu geben. Es handelt sich weder um ein offizielles Dokument der Gemeinde March noch der Grundschule Holzhausen. Alle Angaben wurden nach bestem Wissen und Gewissen zusammengetragen; Fehler oder Unvollständigkeiten können jedoch nicht ausgeschlossen werden.
 
-> Zusammengetragen aus: Antrag GTS SJ 2026/2027, Infoschreiben KiKom (Okt. 2025), Sachstandsinformation Gemeinde (Dez. 2025), Sachstandsinformation Gemeinde (Feb. 2026), Telefonate mit der Schulleitung, Info-Abend IG GTS (26.02.2026)
+> Zusammengetragen aus: Antrag GTS SJ 2026/2027, Infoschreiben KiKom (Okt. 2025), Sachstandsinformation Gemeinde (Dez. 2025, Feb. 2026, Mär. 2026), Telefonate mit der Schulleitung, Info-Abend IG GTS (26.02.2026)
 
 ---
 
@@ -25,7 +25,7 @@
 | Punkt | Details |
 |-------|---------|
 | **Schulform** | Verbindliche Ganztagsgrundschule (alle Schülerinnen und Schüler müssen verpflichtend teilnehmen) |
-| **Start** | voraussichtlich Schuljahr 2026/2027 (Vor-Ort-Begehung mit Schulamt erfolgt, Rückmeldung der Prüfbehörde steht aus) |
+| **Start** | Schuljahr 2026/2027 (Genehmigung durch Schulaufsicht erteilt, alle drei Standorte starten im September 2026) |
 | **GTS-Tage** | Montag, Dienstag, Mittwoch |
 | **Zeitmodell** | 3 Tage x 7 Zeitstunden |
 | **Unterrichtsbeginn** | 08:00 Uhr |
@@ -86,7 +86,7 @@
 
 ## 4. Ergänzendes kommunales Betreuungsangebot (beschlossen im Grundsatz)
 
-> Quellen: Sachstandsinformation Gemeinde (Dez. 2025, Feb. 2026)
+> Quellen: Sachstandsinformation Gemeinde (Dez. 2025, Feb. 2026, Mär. 2026)
 
 | Punkt | Details |
 |-------|---------|
@@ -95,22 +95,23 @@
 | **Vor dem Unterricht** | Keine Betreuung (einheitlicher Start 08:00 Uhr) |
 | **Orientierung** | Wie aktuell im Hort (bis 16:30 Uhr) |
 
-### Personal (geplant aber noch *nicht beschlossen*)
+### Personal (geplant, Gemeinderatsbeschluss im April 2026 vorgesehen)
 - Fachkräfte für Angebote und Unterstützung in IL-Zeiten
 - Gemeinde beabsichtigt **deutlich mehr Fachkräfte** als Minimum
-- **Koordinationsstelle** geplant (Schnittstelle Fachkräfte <-> Schulleitung)
+- **Teamleitungsstelle** geplant: übernimmt Aufgaben der bisherigen Hortleitungen und bildet die koordinative Schnittstelle zwischen Ganztagsbetreuung und Schule
 
 ### Ferienbetreuung (beschlossen im Grundsatz)
 
-> Quellen: Sachstandsinformation Gemeinde (Dez. 2025, Feb. 2026), Telefonat Frau Münchbach (12.02.26), Info-Abend IG GTS (26.02.2026)
+> Quellen: Sachstandsinformation Gemeinde (Dez. 2025, Feb. 2026, Mär. 2026), Telefonat Frau Münchbach (12.02.26), Info-Abend IG GTS (26.02.2026)
 
 - **Kostenpflichtiges** Ferienbetreuungsangebot für alle Grundschulkinder
 - Buchung **wochenweise** möglich
 - Bei zu kleinen Gruppen werden Kinder standortübergreifend mit anderen Ferienbetreuungsgruppen aus der March zusammengelegt (z.B. könnte ein Kind aus Holzhausen einer Gruppe in Neuershausen zugeteilt werden)
 - Maximal **4 Wochen Schließzeit** pro Schuljahr
 - Gilt ab kommendem Schuljahr 2026/2027
+- Erstklässler und Kinder in Schulvorbereitungsklassen haben einen **rechtlichen Anspruch** auf Ferienbetreuung
 
-> **Wichtig:** In der ersten Septemberwoche 2026 wird es keine Ferienbetreuung geben, da in dieser Zeit die Einrichtung der Ganztagsräume stattfindet.
+> **Wichtig:** Die Ferienbetreuung der Horte endet am 13.08.2026, die Hortverträge enden zum 31.08.2026 (Horte schließen offiziell). In der KW 37 (07.–11.09.2026) wird es keine Ferienbetreuung geben, da in dieser Zeit die Einrichtung der Ganztagsräume stattfindet. Das erste kommunale Ferienbetreuungsangebot findet in den Herbstferien vom 26.–30.10.2026 (KW 44) statt.
 
 ---
 
@@ -157,39 +158,40 @@ Die Schule kann entscheiden, ob sie die LWS durch eigene Lehrkräfte abdeckt ode
 
 | Entscheidung | Zuständig | Zeitrahmen | Status |
 |---|---|---|---|
-| Genehmigung der GTS | Prüfbehörde (Land) | offen | ausstehend |
-| Gebühren ergänzende Betreuung | Gemeinderat | voraussichtlich Ende März 2026 | ausstehend |
-| Gebühren Ferienbetreuung | Gemeinderat | voraussichtlich Ende März 2026 | ausstehend |
+| Genehmigung der GTS | Schulaufsicht (Land) | März 2026 | **genehmigt** |
+| Einsatz pädagogisches Personal im Ganztag | Gemeinderat | April 2026 | ausstehend |
+| Kommunale Anschlussbetreuung | Gemeinderat | April 2026 | ausstehend |
+| Rahmen/Umfang Ferienbetreuung 2026/2027 | Gemeinderat | April 2026 | ausstehend |
+| Gebühren Anschluss- und Ferienbetreuung | Gemeinderat | April 2026 | ausstehend |
+| Teamleitungsstelle Ganztagsbetreuung | Gemeinderat | April 2026 | ausstehend |
 | Caterer / Lieferant Mittagessen | Gemeinde | nicht bekannt | ausstehend |
 | Kosten pro Mahlzeit | Gemeinde | nicht bekannt | ausstehend |
 | Verwendung monetarisierte LWS | Gemeinde / Schule | nicht bekannt | ausstehend |
-| Koordinationsstelle besetzen | Gemeinde | nicht bekannt | ausstehend |
 | Langfristige Schulstandort-Ausrichtung | Gemeinderat | öffentliche Info Ostern bis Pfingsten 2026 | ausstehend |
 | Kooperationsverträge (externe Partner) | Schule / Gemeinde | nicht bekannt | ausstehend |
 
 ### Catering
 
-> Quellen: Antrag GTS SJ 2026/2027 (S. 7-8), Sachstandsinformation Gemeinde (Dez. 2025, Feb. 2026), Info-Abend IG GTS (26.02.2026)
+> Quellen: Antrag GTS SJ 2026/2027 (S. 7-8), Sachstandsinformation Gemeinde (Dez. 2025, Feb. 2026, Mär. 2026), Info-Abend IG GTS (26.02.2026)
 
-- **Wer übernimmt das Catering?** Warmanlieferung ist beschlossen, aber der konkrete Caterer/Lieferant ist nicht genannt
+- **Wer übernimmt das Catering?** Warmanlieferung ist beschlossen, aber der konkrete Caterer/Lieferant ist nicht genannt. Gemeinde steht in engem Austausch mit Schulen und Betreuungsteams, um praktikable und kindgerechte Lösungen zu finden.
 - **Kosten pro Mahlzeit?** Essen ist kostenpflichtig für Familien, aber die Höhe der Kosten ist nicht festgelegt
 - **Essensauswahl:** Gerichte werden von den pädagogischen Kräften ausgewählt (keine Auswahl durch Eltern). Bei Fleischgerichten gibt es vegetarische Alternativen. *(Gleiches System wie im Kindergarten/Hort)*
 
 ### Budget / Finanzen
 
-> Quellen: Sachstandsinformation Gemeinde (Dez. 2025, Feb. 2026), Antrag GTS SJ 2026/2027 (S. 4-5), Telefonat Frau Münchbach (12.02.26)
+> Quellen: Sachstandsinformation Gemeinde (Dez. 2025, Feb. 2026, Mär. 2026), Antrag GTS SJ 2026/2027 (S. 4-5), Telefonat Frau Münchbach (12.02.26)
 
-- **Budget für Ausstattung der Schule:** Nicht beziffert
+- **Budget für Ausstattung der Schule:** Nicht beziffert. Bedarfserfassung der Schulen läuft bis Ende März, Gemeinderatsentscheidung im April vorgesehen.
 - **Kosten für bauliche Maßnahmen:** Große finanzielle Herausforderung, aber keine Zahlen
 - **Monetarisierte LWS:** 5 LWS beantragt (wird noch mit Gemeinde geprüft ob LWS wirklich für das pädagogische Fachpersonal eingesetzt werden soll, bzw. ob ggf. mehr LWS monetarisiert werden)
 
 ### Betreuung
 
-> Quellen: Sachstandsinformation Gemeinde (Dez. 2025, Feb. 2026), Infoschreiben KiKom (Okt. 2025)
+> Quellen: Sachstandsinformation Gemeinde (Dez. 2025, Feb. 2026, Mär. 2026), Infoschreiben KiKom (Okt. 2025)
 
-- **Koordinationsstelle:** Geplant, aber noch nicht geschaffen/besetzt
-- **Gebühren für ergänzende Betreuung:** Gemeinderat entscheidet voraussichtlich Ende März 2026. Separates Schreiben über Kosten, Betreuungszeiten und Anmeldung angekündigt.
-- **Gebühren für Ferienbetreuung:** Gemeinderat entscheidet voraussichtlich Ende März 2026
+- **Teamleitungsstelle:** Geplant als Nachfolge der bisherigen Hortleitungen, zusätzlich koordinative Schnittstelle zwischen Ganztagsbetreuung und Schule. Gemeinderatsbeschluss im April 2026 vorgesehen.
+- **Gebühren für Anschluss- und Ferienbetreuung:** Gemeinderatsbeschluss im April 2026 vorgesehen. Separates Schreiben mit Details zur Ferienbetreuung, Buchungsmöglichkeiten und Kosten angekündigt (ebenfalls April).
 
 ### Kooperationen
 
@@ -197,8 +199,12 @@ Kooperationen sind aktuell noch in Abstimmung. Bisher noch keine konkreten Vertr
 
 ### Räumlichkeiten / Bau
 
+> Quellen: Sachstandsinformation Gemeinde (Feb. 2026, Mär. 2026)
+
 - **Qualitätsstufe 1 bestätigt:** Laut Schulamt verfügen alle drei Standorte über ausreichende Räume und Ausstattung für eine GTS in [Qualitätsstufe 1](https://ganztagsschule.kultus-bw.de/,Lde/Startseite/Qualitaetsrahmen+Ganztagsschule) (Einstiegsstufe, Prozesse werden initiiert).
-- **Begehungen durchgeführt:** An allen drei Standorten fanden Begehungen mit Schul-/Hortleitung und dem Bauamt der Gemeinde statt. Raumnutzungspläne werden überarbeitet, Zeitpläne für Bau- und Umzugsmaßnahmen erstellt.
+- **Begehungen durchgeführt:** An allen drei Standorten fanden Begehungen mit Schul-/Hortleitung und dem Bauamt der Gemeinde statt. Raumplanung und Ausstattung werden final festgelegt. Räumliche Anpassungen fallen umfangreich aus.
+- **Bedarfserfassung laufend:** Schulen stellen konkrete Bedarfe zusammen (Ausstattung, Möbel, Geschirr, kleinere Umbaumaßnahmen). Rückmeldungen werden bis Ende März gesammelt, im April dem Gemeinderat zur Entscheidung vorgelegt.
+- **Umzüge in den Sommerferien:** Umzugsfirmen wurden bereits kontaktiert für standortübergreifende Raumumzüge. Bauhof hält Kapazitäten bereit. Nach den Sommerschließzeiten richten Lehrkräfte und Ganztagsteams die Räume ein.
 - **Entscheidung über langfristige Ausrichtung steht aus:** Der Gemeinderat hat verschiedene Optionen (Erweiterung Bestandsstandorte, Zusammenlegung, Neubau) geprüft, konnte aber noch keine Entscheidung treffen. Eine öffentliche Information ist **zwischen Ostern und Pfingsten 2026** vorgesehen. Entscheidungen sollen noch 2026 getroffen werden.
 
 ### Sonstiges
@@ -215,6 +221,7 @@ Kooperationen sind aktuell noch in Abstimmung. Bisher noch keine konkreten Vertr
 
 - [Sachstandsinformation Gemeinde, Dez. 2025](docs/2025_12-Sachstandinformation.pdf)
 - [Sachstandsinformation Gemeinde, Feb. 2026](docs/2026_02-Sachstandsinformation.pdf)
+- [Sachstandsinformation Gemeinde, Mär. 2026](docs/2026_03-Sachstandsinformation Ganztaggsgrundschule.pdf)
 - [Infoschreiben KiKom, Okt. 2025](docs/kikom/2025_10-Infoschreiben)
 - [GaFöG-FAQs Landkreistag BW, Sept. 2025](docs/GaFöG-FAQs Landkreistag Ba-Wü_Stand September 20251.pdf)
 
@@ -240,7 +247,7 @@ Kooperationen sind aktuell noch in Abstimmung. Bisher noch keine konkreten Vertr
 
 ---
 
-Stand: 27.02.2026 · Version 1.3
+Stand: 23.03.2026 · Version 1.4
 
 ---
 
@@ -248,6 +255,7 @@ Stand: 27.02.2026 · Version 1.3
 
 | Version | Datum | Änderungen | Quelle |
 |---------|-------|------------|--------|
+| **1.4** | 23.03.2026 | GTS-Genehmigung durch Schulaufsicht erteilt. Gemeinderatsbeschlüsse (Personal, Betreuung, Gebühren, Teamleitungsstelle) auf April verschoben. Ferienbetreuung: Hortende 13.08., KW 37 keine Betreuung, erstes Angebot Herbstferien KW 44, Rechtsanspruch für Erstklässler/SVK. Räumlichkeiten: Bedarfserfassung läuft, Umzüge in Sommerferien geplant. | Sachstandsinformation Gemeinde (Mär. 2026) |
 | **1.3** | 27.02.2026 | Mittagessen: Essensauswahl durch pädagogische Kräfte, vegetarische Alternative bei Fleisch, Teilnahme halbjährlich änderbar. Ferienbetreuung: wochenweise buchbar, standortübergreifende Zusammenlegung bei kleinen Gruppen. | Info-Abend IG GTS (26.02.2026) |
 | **1.2** | 24.02.2026 | GaFöG-FAQs als Quelle verlinkt. Offene Punkte umstrukturiert mit Übersichtstabelle. | GaFöG-FAQs Landkreistag BW |
 | **1.1** | 12.02.2026 | Aktualisierung mit Sachstandsinformation Feb. 2026, Uhrzeiten bei Tagesstruktur ergänzt | Sachstandsinformation Gemeinde (Feb. 2026) |
