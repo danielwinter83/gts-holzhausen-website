@@ -247,9 +247,11 @@ Die Schule kann entscheiden, ob sie die LWS durch eigene Lehrkräfte abdeckt ode
 
 ## 7. Ausbauvarianten GTS
 
-> Quelle: [Präsentation der Gemeinde March, Infoveranstaltung 04.05.2026](docs/Praesentation_GT_Ausbau.pdf)
+> Quellen: [Präsentation der Gemeinde March, Infoveranstaltung 04.05.2026](docs/Praesentation_GT_Ausbau.pdf), [Einladung Ortschaftsratssitzung Holzhausen (17.06.2026)](docs/2026_06-OR-Sitzungseinladung.jpg)
 
 Mit der Einführung der Ganztagsgrundschulen entsteht an allen drei Standorten ein deutlich erhöhter Raumbedarf. Die Gemeinde March hat dafür **vier Ausbauvarianten** geprüft (Ausbau aller 3 Standorte, Erweiterung Hugstetten als zentrale GTS, Neubau im Zentralgebiet Buchheim, Erhalt aller 3 Standorte auf Mindeststandard) und am 04.05.2026 öffentlich vorgestellt. Eine Entscheidung des Gemeinderats ist für **September 2026** vorgesehen.
+
+> 📣 **Bürgerbeteiligung in Holzhausen:** Der Ortschaftsrat Holzhausen lädt am **Mittwoch, 17.06.2026 um 19:00 Uhr in die Halle Holzhausen** zur öffentlichen Ortschaftsratssitzung ein. Thema: Zukunft der Grundschulen, Hallen und des Dorflebens. Fragen, Meinungen und Anliegen können dort direkt eingebracht werden, bevor der Ortschaftsrat seine Stellungnahme abgibt ([Einladung](docs/2026_06-OR-Sitzungseinladung.jpg)).
 
 ➡️ **[Detailseite: Ausbauvarianten GTS](ausbauvarianten.html)** – mit Kostenvergleich, Beteiligungsprozess und Zeitplan.
 
@@ -339,6 +341,7 @@ Kooperationen sind aktuell noch in Abstimmung. Bisher noch keine konkreten Vertr
 - [Sachstandsinformation Gemeinde, Mär. 2026](docs/2026_03-Sachstandsinformation Ganztaggsgrundschule.pdf)
 - [Sachstandsinformation Gemeinde, Apr. 2026](docs/2026_04-Sachstandsinformation.pdf)
 - [Präsentation Ausbauvarianten Gemeinde March (04.05.2026)](docs/Praesentation_GT_Ausbau.pdf) (15 MB) – siehe auch [Detailseite](ausbauvarianten.html)
+- [Einladung Ortschaftsratssitzung Holzhausen (17.06.2026)](docs/2026_06-OR-Sitzungseinladung.jpg)
 - [Stellungnahme GEB Schulen March zur Mittagsverpflegung, Mär. 2026](docs/Stellungnahme des Gesamtelternbeirats Schulen March.pdf)
 - [Infoschreiben KiKom, Okt. 2025](docs/kikom/2025_10-Infoschreiben)
 - [GaFöG-FAQs Landkreistag BW, Sept. 2025](docs/GaFöG-FAQs Landkreistag Ba-Wü_Stand September 20251.pdf)

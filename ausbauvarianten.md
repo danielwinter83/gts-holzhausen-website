@@ -173,12 +173,13 @@ Die Infoveranstaltung am 04.05.2026 ist Teil eines mehrstufigen Beteiligungsproz
 |---|---|---|
 | Information der Ortschaftsräte | vor 04.05.2026 | erledigt |
 | Information der Öffentlichkeit, Schulkollegien und Elternbeiräte | 04.05.2026 | erledigt |
+| **Öffentliche Ortschaftsratssitzung Holzhausen** (Bürgerbeteiligung zur Schulentwicklung, Hallen und Dorfleben) | **17.06.2026, 19:00 Uhr, Halle Holzhausen** | ausstehend |
 | **Schriftliche Stellungnahmen** (Ortschaftsräte, Elternbeiräte, Schulleitungen, GEB Kindergärten – insg. 11 Stellungnahmen) | **bis 19.06.2026** | ausstehend |
 | Mündliche Vorstellung der Stellungnahmen vor dem Gemeinderat (max. 5 Min. Redezeit) | **13.07.2026** | ausstehend |
 | Begehungen der drei Grundschulen und Hallen durch den Gemeinderat | nach Erhalt der Stellungnahmen | ausstehend |
 | **Entscheidungsfindung und Beschluss** | **September 2026** | ausstehend |
 
-Örtliche Belange aus Vereinen, Einwohnerschaft etc. werden durch die Ortschaftsräte eingeholt und fließen in deren jeweilige Stellungnahme ein.
+Örtliche Belange aus Vereinen, Einwohnerschaft etc. werden durch die Ortschaftsräte eingeholt und fließen in deren jeweilige Stellungnahme ein. Der Ortschaftsrat Holzhausen lädt dazu am **17.06.2026 um 19:00 Uhr in die Halle Holzhausen** ein – [Einladung ansehen](docs/2026_06-OR-Sitzungseinladung.jpg). Dies ist die Gelegenheit für Bürgerinnen und Bürger, Fragen, Meinungen und Anliegen einzubringen, bevor der Ortschaftsrat seine Stellungnahme abgibt.
 
 ---
 
