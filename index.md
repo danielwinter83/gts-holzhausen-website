@@ -1,6 +1,6 @@
 > **Hinweis:** Diese Zusammenfassung wurde vom Elternbeiratsvorsitzenden der Grundschule Holzhausen aus öffentlich zugänglichen Informationen sowie Gesprächen mit der Schulleitung zusammengestellt, um Eltern vor Ort einen Überblick über die geplante Ganztagsschule zu geben. Es handelt sich weder um ein offizielles Dokument der Gemeinde March noch der Grundschule Holzhausen. Alle Angaben wurden nach bestem Wissen und Gewissen zusammengetragen; Fehler oder Unvollständigkeiten können jedoch nicht ausgeschlossen werden.
 
-> Zusammengetragen aus: Antrag GTS SJ 2026/2027, Infoschreiben KiKom (Okt. 2025), Sachstandsinformation Gemeinde (Dez. 2025, Feb. 2026, Mär. 2026, Apr. 2026), Telefonate mit der Schulleitung, Info-Abend IG GTS (26.02.2026)
+> Zusammengetragen aus: Antrag GTS SJ 2026/2027, Infoschreiben KiKom (Okt. 2025), Sachstandsinformation Gemeinde (Dez. 2025, Feb. 2026, Mär. 2026, Apr. 2026), Telefonate mit der Schulleitung, Info-Abend IG GTS (26.02.2026), Infoveranstaltung Ausbauvarianten Gemeinde (04.05.2026)
 
 ---
 
@@ -9,14 +9,15 @@
 1. [Beschlossene Eckdaten](#1-beschlossene-eckdaten)
 2. [Schulleitung](#2-schulleitung)
 3. [Tagesstruktur (GTS-Tage: Mo-Mi)](#3-tagesstruktur-gts-tage-mo-mi)
-4. [Ergänzendes kommunales Betreuungsangebot](#4-ergänzendes-kommunales-betreuungsangebot-beschlossen-im-grundsatz)
+4. [Ergänzendes kommunales Betreuungsangebot](#4-ergänzendes-kommunales-betreuungsangebot)
 5. [Mittagessen / Mensa](#5-mittagessen--mensa)
 6. [Lehrerwochenstunden (LWS)](#6-lehrerwochenstunden-lws)
-7. [Offene Punkte & Ausstehende Entscheidungen](#7-offene-punkte--ausstehende-entscheidungen)
-8. [Kontakt Gemeinde](#kontakt-gemeinde-zum-thema-ganztagsschule)
-9. [Dokumente zum Download](#dokumente-zum-download)
-10. [Weiterführende Links](#weiterführende-links)
-11. [Abkürzungsverzeichnis](#abkürzungsverzeichnis)
+7. [Ausbauvarianten GTS](#7-ausbauvarianten-gts)
+8. [Offene Punkte & Ausstehende Entscheidungen](#8-offene-punkte--ausstehende-entscheidungen)
+9. [Kontakt Gemeinde](#kontakt-gemeinde-zum-thema-ganztagsschule)
+10. [Dokumente zum Download](#dokumente-zum-download)
+11. [Weiterführende Links](#weiterführende-links)
+12. [Abkürzungsverzeichnis](#abkürzungsverzeichnis)
 
 ---
 
@@ -84,8 +85,10 @@
 
 ---
 
-## 4. Ergänzendes kommunales Betreuungsangebot (beschlossen am 27.04.2026, Gebühren unter Vorbehalt)
+## 4. Ergänzendes kommunales Betreuungsangebot
 
+> Beschlossen am 27.04.2026, Gebühren stehen noch unter Vorbehalt (Anhörung GEB ausstehend, endgültige Entscheidung im Juni 2026).
+>
 > Quellen: Sachstandsinformation Gemeinde (Dez. 2025, Feb. 2026, Mär. 2026, Apr. 2026)
 
 | Punkt | Details |
@@ -141,8 +144,10 @@ Die Buchungslogik unterscheidet sich je nach Wochentag:
 - Pädagogisches Fachpersonal inkl. Vertretungszeiten und Leitungsanteile berücksichtigt
 - **Teamleitungsstelle** vorgesehen: übernimmt Aufgaben der bisherigen Hortleitungen und bildet die koordinative Schnittstelle zwischen Ganztagsbetreuung und Schule (Besetzung im Juni 2026 vorgesehen)
 
-### Ferienbetreuung (beschlossen am 27.04.2026, Gebühren unter Vorbehalt)
+### Ferienbetreuung
 
+> Beschlossen am 27.04.2026, Gebühren stehen noch unter Vorbehalt.
+>
 > Quellen: Sachstandsinformation Gemeinde (Dez. 2025, Feb. 2026, Mär. 2026, Apr. 2026), Telefonat Frau Münchbach (12.02.26), Info-Abend IG GTS (26.02.2026)
 
 - **Kostenpflichtiges** Ferienbetreuungsangebot ab September 2026 für alle Marcher Grundschulkinder (auch für Kinder, die in March wohnen, aber eine andere Schule besuchen)
@@ -240,7 +245,17 @@ Die Schule kann entscheiden, ob sie die LWS durch eigene Lehrkräfte abdeckt ode
 
 ---
 
-## 7. Offene Punkte & Ausstehende Entscheidungen
+## 7. Ausbauvarianten GTS
+
+> Quelle: [Präsentation der Gemeinde March, Infoveranstaltung 04.05.2026](docs/Praesentation_GT_Ausbau.pdf)
+
+Mit der Einführung der Ganztagsgrundschulen entsteht an allen drei Standorten ein deutlich erhöhter Raumbedarf. Die Gemeinde March hat dafür **vier Ausbauvarianten** geprüft (Ausbau aller 3 Standorte, Erweiterung Hugstetten als zentrale GTS, Neubau im Zentralgebiet Buchheim, Erhalt aller 3 Standorte auf Mindeststandard) und am 04.05.2026 öffentlich vorgestellt. Eine Entscheidung des Gemeinderats ist für **September 2026** vorgesehen.
+
+➡️ **[Detailseite: Ausbauvarianten GTS](ausbauvarianten.html)** – mit Kostenvergleich, Beteiligungsprozess und Zeitplan.
+
+---
+
+## 8. Offene Punkte & Ausstehende Entscheidungen
 
 ### Übersicht
 
@@ -259,7 +274,7 @@ Die Schule kann entscheiden, ob sie die LWS durch eigene Lehrkräfte abdeckt ode
 | Gebührensatzung und Nutzungsordnung | Gemeinderat | Juni 2026 | ausstehend |
 | Besetzung Teamleitungsstelle | Gemeinderat | Juni 2026 | ausstehend |
 | Verwendung monetarisierte LWS | Gemeinde / Schule | nicht bekannt | ausstehend |
-| Langfristige Schulstandort-Ausrichtung | Gemeinderat | öffentliche Info Ostern bis Pfingsten 2026 | ausstehend |
+| Langfristige Schulstandort-Ausrichtung ([Ausbauvarianten](ausbauvarianten.html)) | Gemeinderat | Beschluss September 2026 | Varianten vorgestellt (04.05.2026), Beteiligungsverfahren läuft |
 | Kooperationsverträge (externe Partner) | Schule / Gemeinde | nicht bekannt | ausstehend |
 
 ### Catering
@@ -297,13 +312,15 @@ Kooperationen sind aktuell noch in Abstimmung. Bisher noch keine konkreten Vertr
 
 ### Räumlichkeiten / Bau
 
-> Quellen: Sachstandsinformation Gemeinde (Feb. 2026, Mär. 2026)
+> Quellen: Sachstandsinformation Gemeinde (Feb. 2026, Mär. 2026), [Präsentation Ausbauvarianten Gemeinde March (04.05.2026)](docs/Praesentation_GT_Ausbau.pdf)
 
 - **Qualitätsstufe 1 bestätigt:** Laut Schulamt verfügen alle drei Standorte über ausreichende Räume und Ausstattung für eine GTS in [Qualitätsstufe 1](https://ganztagsschule.kultus-bw.de/,Lde/Startseite/Qualitaetsrahmen+Ganztagsschule) (Einstiegsstufe, Prozesse werden initiiert).
 - **Begehungen durchgeführt:** An allen drei Standorten fanden Begehungen mit Schul-/Hortleitung und dem Bauamt der Gemeinde statt. Raumplanung und Ausstattung werden final festgelegt. Räumliche Anpassungen fallen umfangreich aus.
 - **Bedarfserfassung laufend:** Schulen stellen konkrete Bedarfe zusammen (Ausstattung, Möbel, Geschirr, kleinere Umbaumaßnahmen). Rückmeldungen werden bis Ende März gesammelt, im April dem Gemeinderat zur Entscheidung vorgelegt.
 - **Umzüge in den Sommerferien:** Umzugsfirmen wurden bereits kontaktiert für standortübergreifende Raumumzüge. Bauhof hält Kapazitäten bereit. Nach den Sommerschließzeiten richten Lehrkräfte und Ganztagsteams die Räume ein.
-- **Entscheidung über langfristige Ausrichtung steht aus:** Der Gemeinderat hat verschiedene Optionen (Erweiterung Bestandsstandorte, Zusammenlegung, Neubau) geprüft, konnte aber noch keine Entscheidung treffen. Eine öffentliche Information ist **zwischen Ostern und Pfingsten 2026** vorgesehen. Entscheidungen sollen noch 2026 getroffen werden.
+- **Langfristige Ausrichtung – Ausbauvarianten vorgestellt:** Am 04.05.2026 hat die Gemeinde March in einer öffentlichen Infoveranstaltung **vier Ausbauvarianten** für die Marcher Grundschulen vorgestellt: (1) Ausbau aller drei Standorte, (2) Erweiterung Hugstetten als zentrale GTS, (3) Neubau im Zentralgebiet Buchheim, (4) Erhalt aller drei Standorte auf Mindeststandard QS1. Stellungnahmen von Ortschaftsräten, Elternbeiräten und Schulleitungen sind bis **19.06.2026** einzureichen, mündliche Vorstellung vor dem Gemeinderat am **13.07.2026**, Beschluss im **September 2026**.
+  - **Mehr Details:** [Ausbauvarianten – Detailseite](ausbauvarianten.html) (Kostenvergleich, Beteiligungsprozess, Qualitätsstufen)
+  - **Offizielle Quellen:** [Präsentation der Gemeinde (PDF, 15 MB)](docs/Praesentation_GT_Ausbau.pdf) · [Meldung auf march.de](https://www.march.de/de/Aktuelles/Aktuelle-Meldungen/Aktuelle-Meldung?view=publish&item=article&id=3945)
 
 ### Sonstiges
 
@@ -321,6 +338,7 @@ Kooperationen sind aktuell noch in Abstimmung. Bisher noch keine konkreten Vertr
 - [Sachstandsinformation Gemeinde, Feb. 2026](docs/2026_02-Sachstandsinformation.pdf)
 - [Sachstandsinformation Gemeinde, Mär. 2026](docs/2026_03-Sachstandsinformation Ganztaggsgrundschule.pdf)
 - [Sachstandsinformation Gemeinde, Apr. 2026](docs/2026_04-Sachstandsinformation.pdf)
+- [Präsentation Ausbauvarianten Gemeinde March (04.05.2026)](docs/Praesentation_GT_Ausbau.pdf) (15 MB) – siehe auch [Detailseite](ausbauvarianten.html)
 - [Stellungnahme GEB Schulen March zur Mittagsverpflegung, Mär. 2026](docs/Stellungnahme des Gesamtelternbeirats Schulen March.pdf)
 - [Infoschreiben KiKom, Okt. 2025](docs/kikom/2025_10-Infoschreiben)
 - [GaFöG-FAQs Landkreistag BW, Sept. 2025](docs/GaFöG-FAQs Landkreistag Ba-Wü_Stand September 20251.pdf)
@@ -348,7 +366,7 @@ Kooperationen sind aktuell noch in Abstimmung. Bisher noch keine konkreten Vertr
 
 ---
 
-Stand: 12.05.2026 · Version 1.5
+Stand: 12.05.2026 · Version 1.6
 
 ---
 
@@ -356,6 +374,7 @@ Stand: 12.05.2026 · Version 1.5
 
 | Version | Datum | Änderungen | Quelle |
 |---------|-------|------------|--------|
+| **1.6** | 12.05.2026 | Verweis auf die Infoveranstaltung "Ausbauvarianten" (04.05.2026) ergänzt. Eigene [Detailseite](ausbauvarianten.html) mit vier Varianten, Kostenvergleich, Beteiligungsprozess und Zeitplan (Stellungnahmen bis 19.06., mündliche Vorstellung am 13.07., Beschluss im September 2026). | Präsentation Gemeinde March (04.05.2026) |
 | **1.5** | 12.05.2026 | Gemeinderatsbeschlüsse vom 27.04.2026 eingearbeitet: konkrete Blockstruktur (A/B/C) für kommunale Betreuung mit Buchungsregeln und monatlichen Gebühren, Ferienbetreuungsangebot mit konkreten Terminen SJ 2026/27 und Tagesgebühren (kurzes/langes Programm). Mittagessen-Ausschreibung läuft, Angebotsöffnung Mitte Mai, Beschluss zu Caterer/Preis im Juni. Online-Bedarfsabfragen im Mai. Anmeldung Anfang Juli über Onlineportal. Finale Beschlüsse (endgültige Gebühren, Gebührensatzung, Nutzungsordnung, Teamleitungsstelle) im Juni geplant. | Sachstandsinformation Gemeinde (Apr. 2026) |
 | **1.4** | 23.03.2026 | GTS-Genehmigung durch Schulaufsicht erteilt. Gemeinderatsbeschlüsse (Personal, Betreuung, Gebühren, Teamleitungsstelle) auf April verschoben. Ferienbetreuung: Hortende 13.08., KW 37 keine Betreuung, erstes Angebot Herbstferien KW 44, Rechtsanspruch für Erstklässler/SVK. Räumlichkeiten: Bedarfserfassung läuft, Umzüge in Sommerferien geplant. | Sachstandsinformation Gemeinde (Mär. 2026) |
 | **1.3** | 27.02.2026 | Mittagessen: Essensauswahl durch pädagogische Kräfte, vegetarische Alternative bei Fleisch, Teilnahme halbjährlich änderbar. Ferienbetreuung: wochenweise buchbar, standortübergreifende Zusammenlegung bei kleinen Gruppen. | Info-Abend IG GTS (26.02.2026) |
