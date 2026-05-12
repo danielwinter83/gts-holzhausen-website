@@ -96,6 +96,8 @@ Aus diesen Fragen wurden **vier Ausbauvarianten** entwickelt, die am 04.05.2026 
 
 ## Kostenvergleich
 
+> ⚠️ **Wichtiger Hinweis zur Belastbarkeit der Zahlen:** Die hier aufgeführten Baukosten sind **bestmögliche Schätzungen** auf Basis von Konzeptstudien (Stand 03-07/2025, indexiert für 2027) – **keine detaillierten Planungen**. Insbesondere für den Neubau (Variante 3) wurde keine konkrete Detailplanung erstellt. Auch die **Höhe der tatsächlichen Fördermittel** ist für keine der Varianten verbindlich bekannt; sie hängt von den jeweils anerkannten förderfähigen Kosten ab und kann erst nach konkreter Planung beziffert werden. Um belastbare Zahlen für alle vier Varianten zu erhalten, müsste die Gemeinde **detaillierte Pläne im siebenstelligen Bereich** in Auftrag geben.
+
 Die Gemeinde hat einen Vergleich über 10 und 20 Jahre erstellt. Berücksichtigt sind Baukosten, jährliche Betriebskosten (Schule + Halle) und jährliche Personalkosten (Hort/Kernzeit, Hausmeister, Sekretariat, Schulsozialarbeit).
 
 | Position | Variante 1 | Variante 2 | Variante 3 | Variante 4 |
@@ -136,6 +138,7 @@ Die Gemeinde hat einen Vergleich über 10 und 20 Jahre erstellt. Berücksichtigt
 - **Fördersatz derzeit ca. 30%** der anerkannten förderfähigen Kosten
 - Beim Ausbau der bestehenden Standorte werden konkrete Defizite (z.B. Ganztagsräume) geprüft; vorhandene Räume werden angerechnet
 - **Sporthallen/Sportanlagen sind nicht über die Schulbauförderung förderfähig** (weder bei Neubau noch beim Ausbau)
+- **Konkrete Fördersummen liegen nicht vor:** Da für die vier Varianten keine Detailplanung erfolgt ist, lässt sich auch die voraussichtliche Höhe der Förderung pro Variante derzeit nicht beziffern. Eine belastbare Ermittlung wäre erst nach kostenintensiver Detailplanung (siebenstelliger Bereich) möglich.
 
 ---
 
